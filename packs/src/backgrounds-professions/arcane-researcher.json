@@ -1,0 +1,21 @@
+{
+    "name": "Arcane Researcher",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"arcane-researcher\">Arcane Researcher</h3><p>You&rsquo;ve invested a considerable amount of time researching matters of the arcane. You might have studied under the tutelage of a master of magic or alchemy, or you might have devoted yourself to uncovering lost secrets of the mystical arts.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Intelligence score increases by 1. Your Intelligence, Wisdom, Charisma, or Constitution increases by 1.</p><p><strong>Arcane Practice.</strong>&nbsp;You can cast&nbsp;<em>Detect Magic</em>&nbsp;and&nbsp;<em>Identify</em>&nbsp;with this feature. Once you cast either spell, you can&rsquo;t cast that spell again with this feature until you finish a short or long rest. @Compendium[5e-stat-decoupled.abilities.TP11O686JVJLQIAR]{Arcane Practice}</p><p><strong>Skills.</strong>&nbsp;Choose one from: Arcana, History, Nature, Religion</p><p><strong>Languages.</strong>&nbsp;One of your choice.</p><p><strong>Other.</strong>&nbsp;You gain proficiency with alchemist&rsquo;s supplies or an extra language.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "ST9QM4MY12GOY3K8"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Fey Ancestry",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You have advantage on saving throws against being charmed and magic can't put you to sleep.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "0VYIWN5IOCSKV0RH"
+}

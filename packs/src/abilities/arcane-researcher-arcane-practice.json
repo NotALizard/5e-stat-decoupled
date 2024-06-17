@@ -1,0 +1,24 @@
+{
+    "name": "Arcane Practice",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You can cast&nbsp;<em>Detect Magic</em>&nbsp;and&nbsp;<em>Identify</em>&nbsp;with this feature. Once you cast either spell, you can&rsquo;t cast that spell again with this feature until you finish a short or long rest.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "TP11O686JVJLQIAR"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Independent Study",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You gain proficiency with any one skill of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "WFRS3HWOYGLU0V6Q"
+}

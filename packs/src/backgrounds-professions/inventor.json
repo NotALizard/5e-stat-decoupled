@@ -1,0 +1,21 @@
+{
+    "name": "Inventor",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"inventor\">Inventor</h3><p>You are practiced in tinkering. You could have been a clockmaker, apprentice of an artificer, siege engineer, gunsmith, or any other profession involving mechanisms or other technology. You have a penchant for fixing technical problems, whether they were of your own creation or not.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Intelligence ability score increases by 1. Your Intelligence, Constitution, or Dexterity ability score increases by 1.</p><p><strong>Knowledge of Artifice.</strong>&nbsp;Your proficiency bonus is doubled for History checks related to magic items, alchemical objects, or technological devices. @Compendium[5e-stat-decoupled.abilities.ERJNIWB9OGMLZ897]{Knowledge of Artifice}</p><p><strong>Create Device.</strong>&nbsp;You are proficient with tinker&rsquo;s tools. Using those tools, you can make a device with 10gp worth of materials and 1 hour of work. Each device is a Tiny object, and you can maintain up to 3 functioning devices from this feature at a time.<br />&nbsp;&nbsp;&nbsp;When you create a device, choose one of the following options:<ul><li><em>Pocketwatch.</em>&nbsp;Winding up this device enables it to accurately measure the passage of time for the next 24 hours. At the end of the 24 hours, the watch stops if it has not been wound since. Winding it causes its hands to continue ticking from where it stopped, not necessarily the current time of day. The position of the watch's hands can be manually adjusted.</li><li><em>Lighter.</em>&nbsp;As an action, you can use the device to light a torch, small campfire, or similar flamable object.</li><li><em>Phonograph.</em>&nbsp;When loaded with a Tiny blank wax cylinder (or Candle), the device can engrave up to a minute worth of sound onto the wax. The recorder can be started and stopped at any point by interacting with it. Audio recorded on wax can be played back on the device repeatedly.</li></ul> @Compendium[5e-stat-decoupled.abilities.9SIZG3LFX8IF3RG7]{Create Device}</p><p><strong>Skills.</strong>&nbsp;Choose one from: Arcana, History, Investigation, Sleight of Hand</p><p><strong>Languages.</strong>&nbsp;One of your choice.</p><p><strong>Other.</strong>&nbsp;You gain proficiency with two of the following (You may select from the same category both times): a set of artisan&rsquo;s tools, thieves&rsquo; tools, a type of firearm (with your DM&rsquo;s approval).</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "NPP9BTEBVJH01LQ2"
+}

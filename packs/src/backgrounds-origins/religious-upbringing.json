@@ -1,0 +1,21 @@
+{
+    "name": "Religious Upbringing",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"religious-upbringing\">Religious Upbringing</h3><p>Whether by choice or as the result of a tragedy, you came to call a temple home. During your stay, you were taught the ways of the temple&rsquo;s faith and encouraged to meditate on spiritual matters. The time you spend here has opened your awareness to the workings of good and evil forces in the world around you.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Wisdom or Charisma increases by 1.</p><p><strong>Divine Awareness.</strong>&nbsp;You can cast the spell&nbsp;<em>Detect Evil and Good</em>&nbsp;without expending a spell slot. Once you do so, you must finish a long rest before you can cast it in this way again. @Compendium[5e-stat-decoupled.abilities.VEQJJR79XIOTMYWO]{Divine Awareness}</p><p><strong>Skills.</strong>&nbsp;Choose one from: Insight, Medicine, Persuasion, Religion.</p><p><strong>Tools.</strong>&nbsp;You gain proficiency with one musical instrument or artisan&rsquo;s tool of your choice.</p><p><strong>Languages.</strong>&nbsp;Common, plus one of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "RIWB184VX1R2F8YO"
+}

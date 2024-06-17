@@ -1,0 +1,24 @@
+{
+    "name": "Firbolg Magic",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You can cast detect magic and disguise self with this trait, using Intelligence, Wisdom, or Charisma as your spellcasting ability for them. Once you cast either spell, you can&rsquo;t cast it again with this trait until you finish a long rest. When you use this version of disguise self, you can seem up to 3 feet shorter than normal, allowing you to more easily blend in with humans and elves.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "NQEUG4IF5TJF3YL0"
+}

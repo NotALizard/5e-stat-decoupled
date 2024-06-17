@@ -1,0 +1,24 @@
+{
+    "name": "Mockingbird",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You can accurately reproduce sounds that you have heard, including the voices of other creatures. A creature that suspects your noises to be imitations can discern their true nature with a successful Wisdom (Insight) check contested by your Charisma (Deception) check.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "6GRFJU2HGTZJFOJK"
+}

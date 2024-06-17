@@ -1,0 +1,24 @@
+{
+    "name": "Natural Weapon",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You have a natural weapon that deals 1d6 damage. You must decide during character creation what form this weapon takes, whether it uses Strength or Dexterity, and whether the damage is bludgeoning, piercing, slashing, or poison. Some examples are claws, a set of horns, a tail, sharp teeth, or a poisonous stinger. If you choose claws, each hand counts as a separate weapon but your hand must be free to attack with it.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "YQZQKUT4DQFOBX6X"
+}

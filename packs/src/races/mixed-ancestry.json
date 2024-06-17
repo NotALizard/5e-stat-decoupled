@@ -1,0 +1,21 @@
+{
+    "name": "Mixed Ancestry",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"mixed-ancestries\">Mixed Ancestries</h1><p>Half-elves, Half-orcs, and other possiblities.</p><p><strong>Darkvision.</strong>&nbsp;You have improved vision in dark and dim conditions. You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray. @Compendium[5e-stat-decoupled.abilities.V9NAVQGFBVA3H3XY]{Darkvision}</p><p><strong>Lineage.</strong>&nbsp;Pick two Ancestries.</p><ul><li><strong><em>Dwarven Ancestry.</em></strong>&nbsp;You gain the&nbsp;<em>Dwarven Resilience</em>&nbsp;Dwarf trait. @Compendium[5e-stat-decoupled.abilities.M8X4L1JTBQLE9OQX]{Dwarven Ancestry}</li><li><strong><em>Elven Ancestry.</em></strong>&nbsp;You gain the&nbsp;<em>Fey Ancestry</em>&nbsp;Elf trait and one Elf subrace. @Compendium[5e-stat-decoupled.abilities.MEN3PEYNL2YP8DDY]{Elven Ancestry}</li><li><strong><em>Orcish Ancestry.</em></strong>&nbsp;You gain the&nbsp;<em>Relentless Endurance</em>&nbsp;Orc trait. @Compendium[5e-stat-decoupled.abilities.65Y7MGUPH9D2VWET]{Orcish Ancestry}</li><li><strong><em>Human Ancestry.</em></strong>&nbsp;Increase one of your ability scores by +1. @Compendium[5e-stat-decoupled.abilities.DVJS214D5H0TB00I]{Human Ancestry}</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "4UZD0TYV4H3L46QK"
+}

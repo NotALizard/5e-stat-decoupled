@@ -1,0 +1,21 @@
+{
+    "name": "Aasimar",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"aasimar-\">Aasimar*</h1><p><strong>Darkvision.</strong>&nbsp;Blessed with a radiant soul, your vision can easily cut through darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray. @Compendium[5e-stat-decoupled.abilities.TK257FBFKENE8BPA]{Darkvision}</p><p><strong>Celestial Resistance.</strong>&nbsp;You have resistance to radiant damage. @Compendium[5e-stat-decoupled.abilities.FAQYCIE5PRPC4FDG]{Celestial Resistance}</p><p><strong>Light Bearer.</strong>&nbsp;You know the Light cantrip. Intelligence, Wisdom, or Charisma is your spellcasting ability for it. @Compendium[5e-stat-decoupled.abilities.BIUIMK4913HXT4S4]{Light Bearer}</p><p><strong>Subrace.</strong>&nbsp;You get a subrace.</p><h3 id=\"ascendant\">Ascendant</h3><p><strong>Flight.</strong>&nbsp;While you are not wearing heavy armor, you have a flying speed of 30 feet. @Compendium[5e-stat-decoupled.abilities.F1RO30RG9OM6JQCZ]{Flight}</p><p><strong>Limited Stamina.</strong>&nbsp;You can only manage to fly in short bursts and will fall if you end your turn in the air and nothing else is holding you aloft. Starting at 5th level you no longer suffer this restriction. @Compendium[5e-stat-decoupled.abilities.RR52BF27IIKJF4K9]{Limited Stamina}</p><h3 id=\"guardian\">Guardian</h3><p><strong>Healing Hands.</strong>&nbsp;As an action, you can touch a creature and cause it to regain a number of hit points equal to 1d6 + your level. You can use this feature a number of times equal to half your proficiency bonus (rounded up), regaining all expended uses when you finish a long rest. @Compendium[5e-stat-decoupled.abilities.K5X9B1RQPBCYI5KW]{Healing Hands}</p><h3 id=\"ruinous\">Ruinous</h3><p><strong>Divine Judgement.</strong>&nbsp;Once on each of your turns, you can deal extra radiant or necrotic damage (chosen when you select this race) to one target when you deal damage to it with an attack or a spell. The extra damage equals 1d6 + your level. You can use this feature a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest. @Compendium[5e-stat-decoupled.abilities.TQM4AWJLYBW6WS9L]{Divine Judgement}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "EIQ7FUVSPOI42L52"
+}

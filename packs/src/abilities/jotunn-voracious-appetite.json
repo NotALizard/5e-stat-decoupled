@@ -1,0 +1,24 @@
+{
+    "name": "Voracious Appetite",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Whenever you recover hit points from rolling hit dice, you regain an amount of hit points equal to the die rolled + your Constitution modifier + your proficiency bonus.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "5E7Z5PF9R7U54LU1"
+}

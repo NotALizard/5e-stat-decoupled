@@ -1,0 +1,21 @@
+{
+    "name": "Rural Life",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"rural-life\">Rural Life</h3><p>Where you grew up livelihoods were tied to the land. Your folks could have been farmers, herders, lumberjacks, miners, or any number of other professions. With trade from the city being more intermittent than reliable, you came to rely on your own skills and those of your community.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Strength, Wisdom, or Constitution increases by 1.</p><p><strong>Skills.</strong>&nbsp;Choose two from: Animal Handling, Athletics, Nature, Perception, Survival.</p><p><strong>Fighting Dirty.</strong>&nbsp;Whenever you use a farming or artisan&rsquo;s tool as an improvised weapon, you are considered proficient with it. @Compendium[5e-stat-decoupled.abilities.6WFBDV701UG9OL2S]{Fighting Dirty}</p><p><strong>Tools.</strong>&nbsp;You gain proficiency with one of the following: Carpenter&rsquo;s tools, Leatherworker&rsquo;s tools, Weaver&rsquo;s tools, Woodcarver&rsquo;s tools, Smith&rsquo;s Tools, Vehicles (land).</p><p><strong>Languages.</strong>&nbsp;Common.</p><p><strong>Other.</strong>&nbsp;You gain proficiency with an artisan&rsquo;s tool or a language of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "Z0WAJNXJKQBBF6TJ"
+}

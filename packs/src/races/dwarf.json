@@ -1,0 +1,21 @@
+{
+    "name": "Dwarf",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"dwarf\">Dwarf</h1><p><strong>Speed.</strong>&nbsp;Your base walking speed is 25 feet.</p><p><strong>Dwarven Resilience.</strong>&nbsp;You have advantage on saving throws against poison, and you have resistance against poison damage @Compendium[5e-stat-decoupled.abilities.ZM211UAM29WBNA0U]{Dwarven Resilience}</p><p><strong>Darkvision.</strong>&nbsp;You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray. @Compendium[5e-stat-decoupled.abilities.EE0R4ZMOQ4BFJI7L]{Darkvision}</p><p><strong>Dwarven Toughness.</strong>&nbsp;Your hit point maximum increases by 1, and it increases by 1 every time you gain a level. @Compendium[5e-stat-decoupled.abilities.5BNM2CL6EZES4TUT]{Dwarven Toughness}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "V5RIDT4FE7RNQFY4"
+}

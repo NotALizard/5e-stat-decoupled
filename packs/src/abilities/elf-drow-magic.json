@@ -1,0 +1,24 @@
+{
+    "name": "Drow Magic",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You know the&nbsp;<em>dancing lights</em>&nbsp;cantrip. When you reach 3rd level you know the&nbsp;<em>faerie fire</em>&nbsp;spell and can cast it once with this trait, regaining the ability to do so when you finish a long rest. When you reach 5th level you know the&nbsp;<em>darkness</em>&nbsp;spell and can cast it once with this trait, regaining the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "HWNMOEJ176PTA8SU"
+}

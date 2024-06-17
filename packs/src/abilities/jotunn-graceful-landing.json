@@ -1,0 +1,24 @@
+{
+    "name": "Graceful Landing",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You can cast the Feather Fall spell targeting only yourself at will with no material components. Intelligence, Wisdom, or Charisma is your spellcasting ability for this spell.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "ENSZ4QV3C5DANBCL"
+}

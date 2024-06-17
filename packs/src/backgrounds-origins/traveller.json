@@ -1,0 +1,21 @@
+{
+    "name": "Traveller",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"traveller\">Traveller</h3><p>Your origin does not belong to any particular city, town, or village; you feel best at home while out on the road. Whether you travelled alone, with a nomadic group, or alongside a traveling circus, your travels have brought you to a variety of cultures and people. What you learned upon your journeys propelled you to experience other new and exciting things.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Charisma, Dexterity, Constitution, or Wisdom increases by 1.</p><p><strong>Well Travelled.</strong>&nbsp;You learn two additional languages.</p><p><strong>Skills.</strong>&nbsp;Choose one from: Acrobatics, Animal Handling, Performance, Sleight of Hand, Survival.</p><p><strong>Tools.</strong>&nbsp;You gain proficiency with one from the following: disguise kit, vehicles (land), a gaming set, navigator&rsquo;s tools, or one musical instrument.</p><p><strong>Languages.</strong>&nbsp;Common, plus one of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "FAWVCNIFFG1PCADH"
+}

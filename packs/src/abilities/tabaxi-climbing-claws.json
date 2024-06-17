@@ -1,0 +1,24 @@
+{
+    "name": "Climbing Claws",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Your claws give you excellent grip, granting you a climbing speed of 20 feet. Additionally, they count as natural weapons. Your claws use your Strength or Dexterity and deal 1d4 + your chosen ability modifier slashing damage on a hit.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "IZVLGHYOXJOC6RQR"
+}

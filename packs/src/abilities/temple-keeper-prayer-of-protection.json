@@ -1,0 +1,24 @@
+{
+    "name": "Prayer of Protection",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You can cast the spell&nbsp;<em>Protection from Evil and Good</em>&nbsp;without expending a spell slot using this feature. Whenever you do so, you can&rsquo;t use this feature again until you finish a long rest.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "YEVCJVPUXY9662ZG"
+}

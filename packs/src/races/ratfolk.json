@@ -1,0 +1,21 @@
+{
+    "name": "Ratfolk/Mousefolk",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"ratfolk-mousefolk\">Ratfolk/Mousefolk</h1><p><strong>Size.</strong>&nbsp;Your size is Small.</p><p><strong>Nimble Escape.</strong>&nbsp;You can take the Disengage or Hide action as a bonus action on each of your turns. @Compendium[5e-stat-decoupled.abilities.GOU4UK5P4TINUGRW]{Nimble Escape}</p><p><strong>Nimble.</strong>&nbsp;You can move through the space of any creature that is of a size larger than yours. @Compendium[5e-stat-decoupled.abilities.FYGMXWAQU8ASR1KM]{Nimble}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "0C1EBA6B81IXINOF"
+}

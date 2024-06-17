@@ -1,0 +1,21 @@
+{
+    "name": "Shipmate",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"shipmate\">Shipmate</h3><p>You worked as a sailor or dockhand on or near the sea. You&rsquo;ve honed your body and braved the hardships of the high seas. You&rsquo;ve learned how to operate and tend to ships, and perhaps even fill a specific role such as helmsman, cook, navigator, carpenter, first mate, boatswain, or quartermaster.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Strength, Dexterity, or Wisdom increases by 1. Your Strength, Dexterity, or Constitution increases by 1.</p><p><strong>Seas and Sails.</strong>&nbsp;You have a swimming and climbing speed of 30ft. @Compendium[5e-stat-decoupled.abilities.9CM5YMS3E6D51BDR]{Seas and Sails}</p><p><strong>Skills.</strong>&nbsp;Choose one from: Acrobatics, Athletics, Intimidation, Perception, Survival.</p><p><strong>Languages.</strong>&nbsp;One of your choice.</p><p><strong>Other.</strong>&nbsp;You gain proficiency with one of the following: Navigator&rsquo;s Tools, Cook&rsquo;s Utensils, Carpenter&rsquo;s Tools, Vehicles (Water), a musical instrument, Net (weapon), or a language.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "C7QAFNWKKBSXL7I2"
+}

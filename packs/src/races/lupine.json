@@ -1,0 +1,21 @@
+{
+    "name": "Lupine/Gnoll",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"lupine-gnoll\">Lupine/Gnoll</h1><p><strong>Fleet of Foot.</strong>&nbsp;Your base walking speed increases to 35 feet.</p><p><strong>Darkvision.</strong>&nbsp;You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray. @Compendium[5e-stat-decoupled.abilities.7199LV24PGHF1C2I]{Darkvision}</p><p><strong>Keen Senses.</strong>&nbsp;You have advantage on perception checks relying on hearing or smell. @Compendium[5e-stat-decoupled.abilities.8L4MGQ23TJ16WVDF]{Keen Senses}</p><p><strong>Powerful Bite.</strong>&nbsp;Your bite counts as a natural weapon. It uses your Strength or Constitution and deals 1d6 + your modifier piercing damage on a hit. @Compendium[5e-stat-decoupled.abilities.M3R9WBK63AFV6AME]{Powerful Bite}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "7UGU66877422T64K"
+}

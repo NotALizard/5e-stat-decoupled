@@ -1,0 +1,24 @@
+{
+    "name": "Breath Weapon",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;When you take the attack action, you can replace one of your attacks with an exhalation of magical energy. Your draconic ancestry determines the size, shape, and damage type of the exhalation. Each creature in the area of the exhalation must make a Dexterity and takes 1d10 damage on a failed save, or half as much damage on a successful one. The damage increases to 2d10 at 5th level, 3d10 at 11th level, and 4d10 at 17th level. After you use your breath weapon, you can&rsquo;t use it again until you complete a short or long rest.<br>&nbsp;&nbsp;<em>Breath Weapon DC = 8 + Proficiency Bonus + Constitution Modifier</em></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "CHSOXV2KY6K3AGJO"
+}

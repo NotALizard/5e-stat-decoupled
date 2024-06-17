@@ -1,0 +1,21 @@
+{
+    "name": "Local Hero",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"local-hero\">Local Hero</h3><p>Your escapades are the talk of the town. Perhaps you slew a frightening monster or stood up to a vicious tyrant. Whatever your cause of fame, people from the local area associate your name with bravery and heroism.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Strength, Dexterity, or Constitution increases by 1. Your Charisma, Intelligence, or Wisdom increases by 1.</p><p><strong>Brave.</strong>&nbsp;You have advantage on saving throws made to resist the Frightened condition. @Compendium[5e-stat-decoupled.abilities.E584AMRZNWZFZBJZ]{Brave}</p><p><strong>Dire Triumph.</strong>&nbsp;When you damage a creature with an attack or a spell and the creature's size is larger or bigger, you can cause the attack or spell to deal extra damage to the creature. The extra damage equals your level. Once you use this trait, you can't use it again until you finish a short or long rest. @Compendium[5e-stat-decoupled.abilities.N02EN2S7A7PHL6MQ]{Dire Triumph}</p><p><strong>Skills.</strong>&nbsp;Choose one from: Animal Handling, Athletics, Intimidation, Persuasion, Stealth</p><p><strong>Other.</strong>&nbsp;You gain proficiency with one of the following: a musical instrument, an artisan&rsquo;s tool, a weapon, a language.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "9CQ3YU49MH4E7CGT"
+}

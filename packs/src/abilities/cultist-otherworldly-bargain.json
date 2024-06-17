@@ -1,0 +1,24 @@
+{
+    "name": "Otherworldly Bargain",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You gain the benefit of one&nbsp;<em>Eldritch Invocation</em>&nbsp;as detailed in the Warlock class. The invocation you choose must not have any prerequisites such as warlock level, pact boon, or possessing warlock spell slots.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "RND6EJSLCG6I0ZWX"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Experienced Haggler",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You have advantage on Charisma (Persuasion) and Charisma (Deception) checks made when attempting to barter or trade.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "06ZMWZ3NTPZUN3S0"
+}

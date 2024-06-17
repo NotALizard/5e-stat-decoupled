@@ -1,0 +1,21 @@
+{
+    "name": "Gith",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"gith-\">Gith*</h1><p><strong>Standard Psionics.</strong>&nbsp;You know the Mage Hand and Message cantrips. Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they have the following changes: The spells do not require any components, your conjured mage hand is invisible, and your message can be formed mentally instead of whispered. @Compendium[5e-stat-decoupled.abilities.GNW37FOUKA5F6MN4]{Standard Psionics}</p><p><strong>Psionic Power.</strong>&nbsp;You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a d6. You have a number of these dice equal to your proficiency bonus (these dice are added to any Psionic Energy dice you have from another source), and they fuel various psionic powers you have, which are detailed below.<br>&nbsp;&nbsp;&nbsp;Some of your powers expend the Psionic Energy die they use, as specified in a power&rsquo;s description, and you can&rsquo;t use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. @Compendium[5e-stat-decoupled.abilities.DVXX6K4FGFZWJKR2]{Psionic Power}</p><p><strong>Psionic Power: Mental Fortitude.</strong>&nbsp;Whenever you make an Intelligence, Wisdom, or Charisma saving throw, you can expend one Psionic Energy die and add its roll to the result. You may wait until after you roll the d20 before deciding to use the Psionic Energy die, but must decide before the DM says whether the roll succeeds or fails. @Compendium[5e-stat-decoupled.abilities.LKTAMB3C3DWOSCWJ]{Psionic Power: Mental Fortitude}</p><p><strong>Subrace.</strong>&nbsp;You get a subrace.</p><h3 id=\"githyanki\">Githyanki</h3><p><strong>Psionic Power: Mind Over Matter.</strong>&nbsp;Whenever you make a Strength, Dexterity, or Constitution ability check, you can expend one Psionic Energy die and add its roll to the result. You may wait until after you roll the d20 before deciding to use the Psionic Energy die, but must decide before the DM says whether the roll succeeds or fails. @Compendium[5e-stat-decoupled.abilities.D3292T6QCH56WZ7E]{Psionic Power: Mind Over Matter}</p><h3 id=\"githzerai\">Githzerai</h3><p><strong>Psionic Power: Focused Mind.</strong>&nbsp;Whenever you make an Intelligence, Wisdom, or Charisma ability check, you can expend one Psionic Energy die and add its roll to the result. You may wait until after you roll the d20 before deciding to use the Psionic Energy die, but must decide before the DM says whether the roll succeeds or fails. @Compendium[5e-stat-decoupled.abilities.FISVZPUPKW3ZVP4P]{Psionic Power: Focused Mind}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "S5K9Q46TQ3N98LHV"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Goblinkin",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"goblinkin\">Goblinkin</h1><p><strong>Darkvision.</strong>&nbsp;You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray. @Compendium[5e-stat-decoupled.abilities.HX6Y72NSVR75Q3LJ]{Darkvision}</p><p><strong>Subrace.</strong>&nbsp;You get a subrace.</p><h3 id=\"bugbear-\">Bugbear*</h3><p><strong>Reach.</strong>&nbsp;When you make a melee attack on your turn, your reach for it is 5 feet greater than normal. @Compendium[5e-stat-decoupled.abilities.SYIXUTASWSEVKBCW]{Reach}</p><p><strong>Powerful Build.</strong>&nbsp;You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. @Compendium[5e-stat-decoupled.abilities.V8WMLDPXLEZPKL0Q]{Powerful Build}</p><h3 id=\"goblin-\">Goblin*</h3><p><strong>Size.</strong>&nbsp;Your size is Small.</p><p><strong>Nimble Escape.</strong>&nbsp;You can take the Disengage or Hide action as a bonus action on each of your turns. @Compendium[5e-stat-decoupled.abilities.56THPJA4SSRNI6MA]{Nimble Escape}</p><h3 id=\"hobgoblin-\">Hobgoblin*</h3><p><strong>Fey Ancestry.</strong>&nbsp;You have advantage on saving throws against being charmed, and magic can't put you to sleep. @Compendium[5e-stat-decoupled.abilities.81ZA0GEF904G2B1S]{Fey Ancestry}</p><p><strong>Martial Bonds.</strong>&nbsp;You can use this trait to take the Help action as a bonus action, and you can do so a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest. <br />&nbsp;&nbsp;&nbsp;Starting at 3rd level, your help confers additional benefits. Choose one of the options below each time you take the Help action, whether as a bonus action or an action:<ul><li><strong><em>Hospitality.</em></strong>&nbsp;You and the target of your Help action each gain a number of temporary hit points equal to 1d6 plus your proficiency bonus.</li><li><strong><em>Passage.</em></strong>&nbsp;You and the target of your Help action can each immediately move 10 feet without provoking attacks of opportunity and at no movement cost. A creature does not gain this benefit if it has a condition that reduces its speed to 0 or prevents movement.</li><li><strong><em>Dominance.</em></strong>&nbsp;Within the next minute, the first attack against you and the target of your Help action are both made at disadvantage.</li></ul> @Compendium[5e-stat-decoupled.abilities.N875S443PR0HNLO5]{Martial Bonds}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "O0T7LIJJXRAGF8G7"
+}

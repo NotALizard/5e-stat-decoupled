@@ -1,0 +1,24 @@
+{
+    "name": "Minorly Prophetic",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You can prepare yourself for the dangers and challenges ahead. You know the&nbsp;<em>Guidance</em>&nbsp;cantrip. You can cast&nbsp;<em>Gift of Alacrity</em>&nbsp;on yourself and regain the ability to do so when you finish a long rest. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spell.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "1KYKJ5AFAHPS8763"
+}

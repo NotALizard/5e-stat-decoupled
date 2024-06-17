@@ -1,0 +1,21 @@
+{
+    "name": "City Kid",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"city-kid\">City Kid</h3><p>You were raised in one of the cities of the world, big or small. Here, you would have encountered many different kinds of people, and possibly picked up some elements of their language and culture. You also would have learned a trade, either that of your parents or as part of an apprenticeship. You find yourself at home amongst busy streets and lively storefronts</p><p><strong>Ability Score Increase.</strong>&nbsp;One ability score of your choice increases by 1.</p><p><strong>Skills.</strong>&nbsp;Choose one from: Investigation, Insight, Perception, Stealth.</p><p><strong>City Slicker.</strong>&nbsp;While you are in a city or related environment (for example, a city&rsquo;s sewers), you can add a d4 to any ability check you make with the skill you selected from this origin. @Compendium[5e-stat-decoupled.abilities.R9J9EI0SLGI4FX2V]{City Slicker}</p><p><strong>Tools.</strong>&nbsp;Proficiency with one artisan's tool, musical instrument, or gaming set of your choice.</p><p><strong>Languages.</strong>&nbsp;Common, plus one of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "RDL2Q95MIFG8VJSH"
+}

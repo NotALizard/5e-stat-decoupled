@@ -1,0 +1,21 @@
+{
+    "name": "Haunted Past",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"haunted-past\">Haunted Past</h3><p>A supernatural encounter you experienced in your childhood has left you scarred. Your body and mind have been permanently altered, though whether these changes are a blessing or a curse is anyone's guess. Most will treat you with cordiality, either out of sympathy for your perceived trauma or fear of provoking your otherworldly ire.</p><p><strong>Ability Score Increase.</strong>&nbsp;One ability score of your choice increases by 1.</p><p><strong>Heart of Darkness.</strong>&nbsp;You have resistance to necrotic damage. @Compendium[5e-stat-decoupled.abilities.1MFGXYXX5634CIV9]{Heart of Darkness}</p><p><strong>Skills.</strong>&nbsp;Choose one from: Arcana, Intimidation, Investigation, Religion.</p><p><strong>Languages.</strong>&nbsp;Common, plus one exotic language of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "WV7M7I47JKBFZYZS"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Unbeaten Path",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Moving through non-magical Difficult Terrain costs you no extra movement.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "QKPYEDVB6CTTYFEC"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Psionic Power: Mind Over Matter",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Whenever you make a Strength, Dexterity, or Constitution ability check, you can expend one Psionic Energy die and add its roll to the result. You may wait until after you roll the d20 before deciding to use the Psionic Energy die, but must decide before the DM says whether the roll succeeds or fails.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "D3292T6QCH56WZ7E"
+}

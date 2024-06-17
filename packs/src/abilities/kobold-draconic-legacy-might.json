@@ -1,0 +1,24 @@
+{
+    "name": "Draconic Legacy: Might",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You can make unarmed strikes with your tail. It uses your Strength or Constitution and deals 1d6 + your modifier bludgeoning damage on a hit.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "WNU9M7PDKMY4XI0G"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Doubt",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Whenever you determine that a creature is lying to you or withholding the truth, either through a successful Wisdom (Insight) check or other means, you have advantage on your first Charisma (Intimidation) check directed at that creature made within the next 24 hours.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "SR6MZ5RBJ3PWO86U"
+}

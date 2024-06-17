@@ -1,0 +1,72 @@
+{
+    "id": "5e-stat-decoupled",
+    "name": "5e-stat-decoupled",
+    "title": "5e Stat-Decoupled Races with Backgrounds",
+    "description": "an alternative system of character creation.",
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "11",
+      "verified": "11"
+    },
+    "manifest": "https://github.com/NotALizard/5e-stat-decoupled/releases/latest/download/module.json",
+    "download": "https://github.com/NotALizard/5e-stat-decoupled/releases/latest/download/5e-stat-decoupled.zip",
+    "packFolders": [
+        {
+          "name": "Races",
+          "sorting": "m",
+          "packs": [
+            "races"
+          ],
+          "folders": []
+        },
+        {
+          "name": "Abilities",
+          "sorting": "m",
+          "packs": [
+            "abilities"
+          ]
+        },
+        {
+          "name": "Backgrounds",
+          "sorting": "m",
+          "packs": [
+            "backgrounds-origins",
+            "backgrounds-professions"
+          ]
+        }
+      ],
+    "packs": [
+      {
+        "name": "races",
+        "label": "Races (Stat-Decoupled)",
+        "path": "./packs/races.db",
+        "entity": "Item",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "abilities",
+        "label": "Abilities (Stat-Decoupled)",
+        "path": "./packs/abilities.db",
+        "entity": "Item",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "backgrounds-origins",
+        "label": "Origins (Stat-Decoupled)",
+        "path": "./packs/backgrounds-origins.db",
+        "entity": "Item",
+        "type": "Item",
+        "system": "dnd5e"
+      },
+      {
+        "name": "backgrounds-professions",
+        "label": "Professions (Stat-Decoupled)",
+        "path": "./packs/backgrounds-professions.db",
+        "entity": "Item",
+        "type": "Item",
+        "system": "dnd5e"
+      }
+    ]
+  }

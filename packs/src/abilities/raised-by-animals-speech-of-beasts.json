@@ -1,0 +1,24 @@
+{
+    "name": "Speech of Beasts",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You have the ability to communicate in a limited manner with beasts. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Wisdom and Charisma checks you make to influence beasts.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "XJ5TOFAESTA6S16W"
+}

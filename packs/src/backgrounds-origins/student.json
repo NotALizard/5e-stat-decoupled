@@ -1,0 +1,21 @@
+{
+    "name": "Student",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"student\">Student</h3><p>Whether you were sent off to school or attended it regularly, your studies dominated your formative years. The knowledge you acquired, or perhaps the knowledge you avoided learning while copying off someone else, is meant to prepare you for the future. No matter how studious you were, you can at least assert that you have approximate knowledge of many things.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Intelligence, Wisdom, or Charisma increases by 1.</p><p><strong>Skills.</strong>&nbsp;Choose two from: Arcana, Deception, History, Medicine, Nature, Performance, Religion.</p><p><strong>Languages.</strong>&nbsp;Common, plus one of your choice.</p><p><strong>Other.</strong>&nbsp;You gain proficiency with one of the following: Alchemist&rsquo;s supplies, Calligrapher&rsquo;s supplies, Cartographer's tools, Painter&rsquo;s supplies, Forgery kit, Tinkerer&rsquo;s tools, a musical instrument, or an extra language.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "2JS3IXJ4O6LLWOZZ"
+}

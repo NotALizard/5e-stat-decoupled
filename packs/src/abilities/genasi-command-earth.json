@@ -1,0 +1,24 @@
+{
+    "name": "Command Earth",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You know the&nbsp;<em>Mold Earth</em>&nbsp;cantrip (from EE/XGtE), and Constitution is your spellcasting ablitity for it.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "68S0UOXSON9L74XG"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Standard Psionics",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You know the Mage Hand and Message cantrips. Intelligence is your spellcasting ability for these spells. When you cast them with this trait, they have the following changes: The spells do not require any components, your conjured mage hand is invisible, and your message can be formed mentally instead of whispered.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "GNW37FOUKA5F6MN4"
+}

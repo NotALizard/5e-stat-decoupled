@@ -1,0 +1,21 @@
+{
+    "name": "Lawbreaker",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"lawbreaker\">Lawbreaker</h3><p>You were a burglar, bandit, outlaw, gangster, con artist, pickpocket, pirate, or any other kind of criminal. Whatever the case, you are accustomed to working outside the law and know how to discreetly communicate with clandestine actors. You&rsquo;ve learned how to lie low when being watched and, when that doesn&rsquo;t work, when to cut and run.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Strength, Dexterity, or Constitution increases by 1. Your Charisma, Intelligence, or Wisdom increases by 1.</p><p><strong>Thieves' Cant.</strong>&nbsp;You know how to communicate through Thieves&rsquo; Cant (See Rogue). @Compendium[5e-stat-decoupled.abilities.9RMDNRDX2FWV4T5U]{Thieves' Cant}</p><p><strong>Flee the Scene.</strong>&nbsp;On your first turn of each combat, you can take the Dash action once as a free action as long as you are not surprised. @Compendium[5e-stat-decoupled.abilities.6BMGHD9S8CP7SQEL]{Flee the Scene}</p><p><strong>Skills.</strong>&nbsp;Choose one from: Deception, Intimidation, Perception, Sleight of Hand, Stealth.</p><p><strong>Other.</strong>&nbsp;You gain proficiency in two of the following: Thieves' Tools, Disguise Kit, Forgery Kit, Poisoner&rsquo;s Kit, Jeweler&rsquo;s tools, a gaming set, a language of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "0L79XG72ZBSTIA0R"
+}

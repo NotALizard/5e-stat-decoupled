@@ -1,0 +1,24 @@
+{
+    "name": "Draconic Legacy: Fortitude",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You have resistance to one of the following damage types (chosen when you pick this ancestry): Acid, Cold, Fire, Lightning, or Poison.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "3K48ZGKYBGPC0VXK"
+}

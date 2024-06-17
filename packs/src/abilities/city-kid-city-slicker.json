@@ -1,0 +1,24 @@
+{
+    "name": "City Slicker",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;While you are in a city or related environment (for example, a city&rsquo;s sewers), you can add a d4 to any ability check you make with the skill you selected from this origin.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "R9J9EI0SLGI4FX2V"
+}

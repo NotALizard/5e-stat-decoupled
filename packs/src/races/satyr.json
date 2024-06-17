@@ -1,0 +1,21 @@
+{
+    "name": "Satyr",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"satyr-\">Satyr*</h1><p><strong>Fleet of Foot.</strong>&nbsp;Your base walking speed increases to 35 feet.</p><p><strong>Fey.</strong>&nbsp;You are considered Fey rather than Humanoid. @Compendium[5e-stat-decoupled.abilities.9X0K8Q48LRGE4H8A]{Fey}</p><p><strong>Mirthful Leaps.</strong>&nbsp;Whenever you make a long or high jump, you can roll a d8 and add the number to the number of feet you cover, even when making a standing jump. This extra distance costs movement as normal. @Compendium[5e-stat-decoupled.abilities.CDQJ8V0HZBDFJUHQ]{Mirthful Leaps}</p><p><strong>Fey Ancestry.</strong>&nbsp;You have advantage on saving throws against being charmed and magic can't put you to sleep. @Compendium[5e-stat-decoupled.abilities.0194RUSX6VOGVO1Z]{Fey Ancestry}</p><p><strong>Ram.</strong>&nbsp;You can use your head and horns to make unarmed strikes. It uses your Strength or Constitution and deals 1d6 + your modifier bludgeoning damage on a hit. @Compendium[5e-stat-decoupled.abilities.TPNCC1ZXN1E01YW3]{Ram}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "LOYBJ519KAWWHVV4"
+}

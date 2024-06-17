@@ -1,0 +1,21 @@
+{
+    "name": "Kenku",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"kenku-\">Kenku*</h1><p><strong>Mockingbird.</strong>&nbsp;You can accurately reproduce sounds that you have heard, including the voices of other creatures. A creature that suspects your noises to be imitations can discern their true nature with a successful Wisdom (Insight) check contested by your Charisma (Deception) check. @Compendium[5e-stat-decoupled.abilities.6GRFJU2HGTZJFOJK]{Mockingbird}</p><p><strong>Role Model.</strong>&nbsp;Select one humanoid that you have observed for a total of at least 24 hours. In addition to your own Profession (detailed later), you gain the benefits of that creature's Profession if it has one. If the creature is an NPC, you gain the benefits of whichever Profession the DM determines is most appropriate. Professions gained from this feature do not include ability score increases.<br />&nbsp; &nbsp;Whenever you gain a level, you can choose a different creature that meets the criteria, losing the benefits of the Profession this feature previously granted you. If this feature would cause you to gain a Profession you already benefit from, you must choose a different target. @Compendium[5e-stat-decoupled.abilities.P8L0Z3QRQ4FC3IPC]{Role Model}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "OBASRJKM67SHU1CR"
+}

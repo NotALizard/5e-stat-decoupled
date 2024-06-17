@@ -1,0 +1,24 @@
+{
+    "name": "Know Your Enemy",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Pick a creature type (besides Beast or Humanoid) OR pick an organization that exists in the DM's world. You have advantage on any ability checks made to recall information about the chosen creatures, discern their intentions, identify evidence of their activity, and track them.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "RJVMK6N5NAS7H0IQ"
+}

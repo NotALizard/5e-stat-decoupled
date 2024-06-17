@@ -1,0 +1,21 @@
+{
+    "name": "Tortle",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"tortle-\">Tortle*</h1><p><strong>Extended Breath.</strong>&nbsp;You can hold your breath for up to an hour at a time. @Compendium[5e-stat-decoupled.abilities.Z1HZR620B9RQ3WGG]{Extended Breath}</p><p><strong>Armored Shell.</strong>&nbsp;Your hard shell protects you. You gain no benefit from wearing armor, but your base AC is 17 (It recieves no bonus from Dexterity). You can still gain the benefits of using a shield. @Compendium[5e-stat-decoupled.abilities.ZMA7V5S8USUTPS1H]{Armored Shell}</p><p><strong>Powerful Bite.</strong>&nbsp;Your bite counts as a natural weapon. It uses your Strength or Constitution and deals 1d6 + your modifier piercing damage on a hit. @Compendium[5e-stat-decoupled.abilities.47PKTYYJFSYQISIU]{Powerful Bite}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "573E9XT29W1632V2"
+}

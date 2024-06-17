@@ -1,0 +1,24 @@
+{
+    "name": "Provident Artisan",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;As part of a short rest, you can harvest bone, hide, or other materials from a slain beast, construct, dragon, monstrosity, or plant creature of size Small or larger to create one of the following items: any simple melee weapon, a blowgun, 10 blowgun needles, 10 darts, a shield, leather armor, hide armor. To use this trait, you need a blade, such as a dagger, or appropriate artisan's tools, such as leatherworker's tools.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "0HTHLWOT1SYUFQMX"
+}

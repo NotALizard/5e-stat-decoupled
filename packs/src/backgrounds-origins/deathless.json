@@ -1,0 +1,21 @@
+{
+    "name": "Variant: Deathless",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"deathless\">Deathless</h3><p>The matters of your death were greatly exaggerated. Through a twist of fate, your soul walks amongst the living once again, though your body may be worse for wear.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Constitution ability score increases by 1.</p><p><strong>Fortitudo Postmortem.</strong>&nbsp;Your blood vessels have long since dessicated, making toxins less effective. You have advantage on saving throws to avoid being poisoned and are immune to diseases. @Compendium[5e-stat-decoupled.abilities.HGQURW9WAU3BEIX8]{Fortitudo Postmortem}</p><p><strong>Immortal Famine.</strong>&nbsp;Your breathing is slowed to an uncanny pace. The number of minutes you can hold your breath for is doubled. Starting at 5th level you no longer need to breathe, and you can go twice as long without food and water before suffering any penalties. @Compendium[5e-stat-decoupled.abilities.12DABV59CCT997P0]{Immortal Famine}</p><p><strong>Mortal Affinity.</strong>&nbsp;You can add your proficiency bonus to your death saving throws. @Compendium[5e-stat-decoupled.abilities.0JZNP8OJ395SJXPS]{Mortal Affinity}</p><p><strong>Languages.</strong>&nbsp;Common.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "2K6QYLXE96PB3QMW"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Merchant",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"merchant\">Merchant</h3><p>You made a living buying and selling goods. You could have set up shop in a city or travelled with your goods from place to place. Many a trinket and treasure have moved through your hands and you&rsquo;ve got a knack for appraising new rarities.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Charisma, Intelligence, or Wisdom increases by 1. Your Charisma, Intelligence, or Constitution increases by 1.</p><p><strong>Experienced Haggler.</strong>&nbsp;You have advantage on Charisma (Persuasion) and Charisma (Deception) checks made when attempting to barter or trade. @Compendium[5e-stat-decoupled.abilities.06ZMWZ3NTPZUN3S0]{Experienced Haggler}</p><p><strong>Discerning Eye.</strong>&nbsp;You can always arrive at a rough estimate of the current monetary value for any non magical or common magical item. Whenever you learn the identity of an item, you gain a rough estimate of its current monetary value. @Compendium[5e-stat-decoupled.abilities.6TTQWUU2FMKZ55OC]{Discerning Eye}</p><p><strong>Skills.</strong>&nbsp;Choose one from: Deception, History, Insight, Persuasion, Sleight of Hand.</p><p><strong>Tools.</strong>&nbsp;You gain proficiency with one of the following: Vehicles (land), an artisan&rsquo;s tool, forgery kit, herbalism kit.</p><p><strong>Languages.</strong>&nbsp;Two of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "S2K3YGIDO58MI65O"
+}

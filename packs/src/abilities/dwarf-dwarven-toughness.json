@@ -1,0 +1,24 @@
+{
+    "name": "Dwarven Toughness",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "5BNM2CL6EZES4TUT"
+}

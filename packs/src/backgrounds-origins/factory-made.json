@@ -1,0 +1,21 @@
+{
+    "name": "Variant: Factory-Made",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"factory-made\">Factory-Made</h3><p>You are a work of artifice, a walking facsimile of the beings of this world - but the pain and emotions you feel are no less real. You were purpose-built as a fully formed individual and are now left to seek an understanding of the world and your place in it.</p><p><strong>Artificial Fortitude.</strong>&nbsp;You have advantage on saving throws against poison, and you have resistance against poison damage. @Compendium[5e-stat-decoupled.abilities.X1BC9SGRNGDE0QQ8]{Artificial Fortitude}</p><p><strong>Inorganic.</strong>&nbsp;You don't experience the same needs as other beings. You do not need to eat, drink, or breathe, and are immune to disease. @Compendium[5e-stat-decoupled.abilities.6DATIW24FE1HJRQW]{Inorganic}</p><p><strong>Specialized Design.</strong>&nbsp;Up to one of the tools you are proficienct with due to your Profession is integrated into your body (chosen during character creation). @Compendium[5e-stat-decoupled.abilities.GJEHOH9FUM9N0G8E]{Specialized Design}</p><p><strong>Languages.</strong>&nbsp;Common.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "UM6HSDWC3J1LX56Z"
+}

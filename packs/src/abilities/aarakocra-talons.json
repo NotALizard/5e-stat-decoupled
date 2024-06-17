@@ -1,0 +1,24 @@
+{
+    "name": "Talons",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Your feet are talons which count as natural weapons. They use your Strength or Dexterity and deal 1d4 + your modifier slashing damage on a hit.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "AOFYUHXWN9V02I6E"
+}

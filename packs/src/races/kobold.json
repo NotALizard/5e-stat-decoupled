@@ -1,0 +1,21 @@
+{
+    "name": "Kobold",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"kobold-\">Kobold*</h1><p><strong>Size.</strong>&nbsp;Your size is Small.</p><p><strong>Darkvision.</strong>&nbsp;You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray. @Compendium[5e-stat-decoupled.abilities.PKRTMYCG0W26E03G]{Darkvision}</p><p><strong>Draconic Outrage.</strong>&nbsp;As a bonus action, you let out a ferocious roar at your enemies within 10 feet of you. Until the end of your next turn, you and your allies have advantage on attack rolls against any of those enemies who could hear the roar. You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. @Compendium[5e-stat-decoupled.abilities.NBOPVCZXNULV56A3]{Draconic Outrage}</p><p><strong>Draconic Legacy.</strong>&nbsp;The kobold connection to dragons can manifest in unpredictable ways in an individual kobold. Choose one of the following legacy options when you select this race:</p><ul><li><strong>Draconic Legacy: Magic.</strong>&nbsp;You know one cantrip of your choice from the sorcerer spell list. Intelligence, Charisma, or Constitution is your spellcasting ability for that cantrip (choose when you select this ancestry). @Compendium[5e-stat-decoupled.abilities.NADVIWJREPG2UD23]{Draconic Legacy: Magic}</li><li><strong>Draconic Legacy: Might.</strong>&nbsp;You can make unarmed strikes with your tail. It uses your Strength or Constitution and deals 1d6 + your modifier bludgeoning damage on a hit. @Compendium[5e-stat-decoupled.abilities.WNU9M7PDKMY4XI0G]{Draconic Legacy: Might}</li><li><strong>Draconic Legacy: Fortitude.</strong>&nbsp;You have resistance to one of the following damage types (chosen when you pick this ancestry): Acid, Cold, Fire, Lightning, or Poison. @Compendium[5e-stat-decoupled.abilities.3K48ZGKYBGPC0VXK]{Draconic Legacy: Fortitude}</li></ul><h3>Variant: Winged Kobold</h3><p>To play a winged Kobold, use the following as your&nbsp;<strong>Draconic Legacy</strong>&nbsp;trait:</p><ul><li><strong>Draconic Legacy: Flight.</strong>&nbsp;You have a flying speed of 20 feet. You have limited stamina and will fall if you end your turn in the air and nothing else is holding you aloft. As long as there is no effect reducing your fly speed to 0 or preventing you from moving, you can slow your fall speed to 60 feet per round and land on your feet without taking damage. @Compendium[5e-stat-decoupled.abilities.PTGNMZ97ZF49XLFI]{Draconic Legacy: Flight}</li></ul>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "RTX8CZEKHJTK9KHP"
+}

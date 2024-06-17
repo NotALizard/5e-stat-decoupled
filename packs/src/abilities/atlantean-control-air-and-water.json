@@ -1,0 +1,24 @@
+{
+    "name": "Control Air and Water",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You can cast <i>Fog Cloud</i> with this trait. Starting at 3rd level, you can cast <i>Gust of Wind</i> with it, and starting at 5th level, you can also cast <i>Wall of Water</i> with it. Once you cast a spell with this trait, you can&rsquo;t cast that spell with it again until you finish a long rest. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "DUANOD1OVPWK9FWW"
+}

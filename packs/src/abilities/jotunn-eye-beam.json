@@ -1,0 +1,24 @@
+{
+    "name": "Eye Beam",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You learn the&nbsp;<em>Mind Sliver</em>&nbsp;cantrip and Constitution is your spellcasting ability.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "3EDNSPEB7H76NQWX"
+}

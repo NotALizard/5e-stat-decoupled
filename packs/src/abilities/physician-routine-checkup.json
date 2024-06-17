@@ -1,0 +1,24 @@
+{
+    "name": "Routine Checkup",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You can treat a healer&rsquo;s kit as having twice the number of uses. In addition, you can tend to the wounds of one creature over the course of a short rest. For each hit die the creature expends, you can expend one use of your healer&rsquo;s kit to cause them to treat the die as its maximum value instead of rolling.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "ZK08MXNFZWTOYWT7"
+}

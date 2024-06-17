@@ -1,0 +1,24 @@
+{
+    "name": "Create Device",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You are proficient with tinker&rsquo;s tools. Using those tools, you can make a device with 10gp worth of materials and 1 hour of work. Each device is a Tiny object, and you can maintain up to 3 functioning devices from this feature at a time.<br />&nbsp;&nbsp;&nbsp;When you create a device, choose one of the following options:<ul><li><em>Pocketwatch.</em>&nbsp;Winding up this device enables it to accurately measure the passage of time for the next 24 hours. At the end of the 24 hours, the watch stops if it has not been wound since. Winding it causes its hands to continue ticking from where it stopped, not necessarily the current time of day. The position of the watch's hands can be manually adjusted.</li><li><em>Lighter.</em>&nbsp;As an action, you can use the device to light a torch, small campfire, or similar flamable object.</li><li><em>Phonograph.</em>&nbsp;When loaded with a Tiny blank wax cylinder (or Candle), the device can engrave up to a minute worth of sound onto the wax. The recorder can be started and stopped at any point by interacting with it. Audio recorded on wax can be played back on the device repeatedly.</li></ul></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "9SIZG3LFX8IF3RG7"
+}

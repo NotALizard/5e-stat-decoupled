@@ -1,0 +1,24 @@
+{
+    "name": "Thieves' Cant",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You know how to communicate through Thieves&rsquo; Cant (See Rogue).</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "ATTNSKPSEZCNUNS0"
+}

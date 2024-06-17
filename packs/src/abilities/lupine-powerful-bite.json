@@ -1,0 +1,24 @@
+{
+    "name": "Powerful Bite",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Your bite counts as a natural weapon. It uses your Strength or Constitution and deals 1d6 + your modifier piercing damage on a hit.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "M3R9WBK63AFV6AME"
+}

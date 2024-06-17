@@ -1,0 +1,24 @@
+{
+    "name": "Natural Armor",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Your tough shell offers you some protection. While you aren't wearing armor, your AC is 12+Con.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "7YFJL58WKVIIZ880"
+}

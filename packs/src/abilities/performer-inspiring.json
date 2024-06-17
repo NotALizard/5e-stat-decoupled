@@ -1,0 +1,24 @@
+{
+    "name": "Inspiring",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Whenever an ally within 60 ft of you that can hear or see you makes an ability check, you can use your reaction to add 1d4 to the result. You can choose to do this after they roll but before the DM reveals whether they succeed or fail. Once you use this feature, you can&rsquo;t use it again until you finish a short or long rest.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "DV07CNBNZY09ETGA"
+}

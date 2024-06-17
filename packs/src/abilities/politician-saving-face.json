@@ -1,0 +1,24 @@
+{
+    "name": "Saving Face",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Whenever you fail an attack roll, ability check, or saving throw you can choose to gain a bonus to the roll equal to the number of allied creatures (Max 5) who can see you within 30 feet, possibly causing the roll to succeed. Once you use this feature, you can't use it again until you finish a short or long rest.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "LAPCBRDOZ527HTNP"
+}

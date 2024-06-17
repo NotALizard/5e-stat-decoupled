@@ -1,0 +1,24 @@
+{
+    "name": "Bountiful Physique",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Whenever you expend hit dice during a short rest, any healing you receive while at full hit points is instead converted into temporary hit points, including healing from hit dice expended while at full health.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "6K9RIN1BZKVQ7D62"
+}

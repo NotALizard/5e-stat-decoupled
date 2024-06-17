@@ -1,0 +1,21 @@
+{
+    "name": "Explorer",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"explorer\">Explorer</h3><p>You made it a mission to explore the unknown and seldom travelled corners of the world. You took meticulous records of your findings, be they maps, samples of flora and fauna or geology, or some other form of data. You&rsquo;re accustomed to making your own trail and no stranger to getting lost.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Wisdom, Strength, or Dexterity increases by 1. Your Wisdom, Intelligence, or Constitution increases by 1.</p><p><strong>Unbeaten Path.</strong>&nbsp;Moving through non-magical Difficult Terrain costs you no extra movement. @Compendium[5e-stat-decoupled.abilities.QKPYEDVB6CTTYFEC]{Unbeaten Path}</p><p><strong>Skills.</strong>&nbsp;Choose one from: Acrobatics, Animal Handling, Athletics, History, Nature, Survival.</p><p><strong>Tools.</strong>&nbsp;You gain proficiency with Cartographer&rsquo;s Tools or Navigator&rsquo;s Tools.</p><p><strong>Languages.</strong>&nbsp;Two of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "GJ86KIH3BB0HGXRP"
+}

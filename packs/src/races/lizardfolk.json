@@ -1,0 +1,21 @@
+{
+    "name": "Lizardfolk",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"lizardfolk-\">Lizardfolk*</h1><p><strong>Semiaquatic.</strong>&nbsp;You have a swimming speed of 30 feet, and you can hold your breath for up to 15 minutes. @Compendium[5e-stat-decoupled.abilities.4RXN46M6H6OEZNUH]{Semiaquatic}</p><p><strong>Natural Armor.</strong>&nbsp;Your tough scales offer you some protection. While you aren't wearing armor, your AC is 13+Dex. @Compendium[5e-stat-decoupled.abilities.L6RMTHWQE8TOSQRJ]{Natural Armor}</p><p><strong>Powerful Bite.</strong>&nbsp;Your bite counts as a natural weapon. It uses your Strength or Constitution and deals 1d6 + your modifier piercing damage on a hit. @Compendium[5e-stat-decoupled.abilities.4TXV49WCRM4160MW]{Powerful Bite}</p><p><strong>Iron Stomach.</strong>&nbsp;You have advantage on saving throws against disease, and suffer no penalties for eating raw meat. @Compendium[5e-stat-decoupled.abilities.00YHEQAYQVFIUGQR]{Iron Stomach}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "NKS7T88IFSXR8JG3"
+}

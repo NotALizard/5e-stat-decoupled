@@ -1,0 +1,24 @@
+{
+    "name": "Serpent Speech",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You can communicate simple ideas with snakes. They can understand the meaning of your words, though you have no special ability to understand them in return.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "I6208H4TNQXQANAC"
+}

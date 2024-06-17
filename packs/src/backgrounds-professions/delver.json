@@ -1,0 +1,21 @@
+{
+    "name": "Delver",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"delver\">Delver</h3><p>You made a life for yourself unearthing sites of the past or combing through ransacked ruins, looking for treasure and artifacts that others may have missed. In doing so, you&rsquo;ve developed an eye for similarities between structures, as well as for the places danger could be hiding.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Constitution, Intelligence, or Wisdom score increases by 1. Your Constitution, Dexterity, or Strength score increases by 1.</p><p><strong>Stonecunning.</strong>&nbsp;Whenever you make an Intelligence (History) check related to the origin of stonework, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus. @Compendium[5e-stat-decoupled.abilities.DHM0I3OZHSAHKWUJ]{Stonecunning}</p><p><strong>Watchful.</strong>&nbsp;You gain a +2 bonus to your passive Wisdom (Perception) and Intelligence (Investigation) scores. @Compendium[5e-stat-decoupled.abilities.U1Z3TXHTDVWHECIS]{Watchful}</p><p><strong>Skills.</strong>&nbsp;Choose two from: Acrobatics, History, Investigation, Perception, Sleight of Hand, Survival.</p><p><strong>Tools.</strong>&nbsp;Choose one of the following: cartographer&rsquo;s tools, navigator&rsquo;s tools, thieves&rsquo; tools.</p><p><strong>Languages.</strong>&nbsp;One of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "GV1AEXT3YYC2B7HQ"
+}

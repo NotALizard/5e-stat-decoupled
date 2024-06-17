@@ -1,0 +1,24 @@
+{
+    "name": "Armored Shell",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Your hard shell protects you. You gain no benefit from wearing armor, but your base AC is 17 (It recieves no bonus from Dexterity). You can still gain the benefits of using a shield.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "ZMA7V5S8USUTPS1H"
+}

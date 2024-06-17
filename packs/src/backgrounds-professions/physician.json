@@ -1,0 +1,21 @@
+{
+    "name": "Physician",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"physician\">Physician</h3><p>You learned how to treat wounds and cure ailments. You could have been an apothecary, herbalist, surgeon, midwife, or even a veterinary. You could have learned and practiced your medicine in any one of a number of settings, be it university, house calls, or even the battlefield.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Wisdom, Intelligence, or Dexterity score increases by 1. Your Wisdom, Intelligence, or Constitution score increases by 1.</p><p><strong>Field Triage.</strong>&nbsp;Whenever you stabilize a creature, it returns to consciousness with 1 hit point after 1d4 rounds instead of hours. @Compendium[5e-stat-decoupled.abilities.5Z2HIH8V4D9ZKOGW]{Field Triage}</p><p><strong>Routine Checkup.</strong>&nbsp;You can treat a healer&rsquo;s kit as having twice the number of uses. In addition, you can tend to the wounds of one creature over the course of a short rest. For each hit die the creature expends, you can expend one use of your healer&rsquo;s kit to cause them to treat the die as its maximum value instead of rolling. @Compendium[5e-stat-decoupled.abilities.ZK08MXNFZWTOYWT7]{Routine Checkup}</p><p><strong>Skills.</strong>&nbsp;Choose one from: Animal Handling, Medicine, Nature, Persuasion, Sleight of Hand.</p><p><strong>Tools.</strong>&nbsp;You gain proficiency with the Herbalism kit or Poisoner&rsquo;s kit.</p><p><strong>Language.</strong>&nbsp;One of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "6P88NT4DIME0K28B"
+}

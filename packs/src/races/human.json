@@ -1,0 +1,21 @@
+{
+    "name": "Human",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"human\">Human</h1><p>&nbsp;</p><p><strong>Adaptable.</strong>&nbsp;Increase two of your ability scores by +1</p><p><strong>Human Variety.</strong>&nbsp;Humans are as varied across the many worlds as they are within them. Normally, all humans within the setting share one of the traits listed below, chosen by your DM based on what's most thematically appropriate. They may also allow you to choose one for yourself instead.</p><h5 id=\"human-variety\">Human Variety</h5><table><thead><tr><th>Theme</th><th>Trait</th></tr></thead><tbody><tr><td>Mundane</td><td>You gain the&nbsp;<strong>Sense Magic</strong>&nbsp;trait (see below)</td></tr><tr><td>Prevalent</td><td>You gain a language of your choice that is spoken in a nearby region</td></tr><tr><td>Enterprising</td><td>You gain proficiency with one tool of your choice</td></tr><tr><td>Determined</td><td>When you regain spent hit dice from a long rest, you regain additional hit dice equal to half your proficiency bonus (rounded down)</td></tr></tbody></table><div class=\"descriptive\"><h5 id=\"variant-mundane\">Variant: Mundane</h5><p><strong>Sense Magic.</strong>&nbsp;The presence of magic registers on your senses like a faint scent of ozone. As long as you can breathe, you are aware of the presence of magic within 30 feet of you. You can't determine the number, direction, or school of magical spells or enchantments, only their presence or the lack thereof. You can use an action to inspect an object or creature within arm's reach to determine if it is under a magical effect. Objects and creatures created by illusion only appear magical in this way if their creator intends them to.</p></div>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "N78O6O8LCUI3GQE6"
+}

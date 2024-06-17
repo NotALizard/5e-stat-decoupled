@@ -1,0 +1,21 @@
+{
+    "name": "Pauper",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"pauper\">Pauper</h3><p>You&rsquo;ve been on your own for a while, perhaps even for as long as you can remember. Growing up in the streets without a coin to your name was hard, but through your strength, speed, wits, willpower, or a combination of each you were able to survive.</p><p><strong>Ability Score Increase.</strong>&nbsp;One ability score of your choice increases by 1.</p><p><strong>Thieves' Cant.</strong>&nbsp;You know how to communicate through Thieves&rsquo; Cant (See Rogue). @Compendium[5e-stat-decoupled.abilities.ATTNSKPSEZCNUNS0]{Thieves' Cant}</p><p><strong>Skills.</strong>&nbsp;Choose two from: Deception, Perception, Performance, Sleight of Hand, Stealth, Survival.</p><p><strong>Tools.</strong>&nbsp;You gain proficiency with one of the following: Disguise kit, Thieves&rsquo; tools, or a musical instrument.</p><p><strong>Languages.</strong>&nbsp;Common.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "3FF2I4O8LV92U5LD"
+}

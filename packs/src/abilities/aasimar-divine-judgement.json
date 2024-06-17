@@ -1,0 +1,24 @@
+{
+    "name": "Divine Judgement",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Once on each of your turns, you can deal extra radiant or necrotic damage (chosen when you select this race) to one target when you deal damage to it with an attack or a spell. The extra damage equals 1d6 + your level. You can use this feature a number of times equal to your proficiency bonus, regaining all expended uses when you finish a long rest.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "TQM4AWJLYBW6WS9L"
+}

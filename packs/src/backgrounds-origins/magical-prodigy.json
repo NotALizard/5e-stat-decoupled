@@ -1,0 +1,21 @@
+{
+    "name": "Magical Prodigy",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"magical-prodigy\">Magical Prodigy</h3><p>Even from a young age your talent for magic was undeniable. Whether by your own direction or under capable tutelage, you were able to shape this gift into a useful skill.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Intelligence, Wisdom, or Charisma increases by 1.</p><p><strong>Cantrip.</strong>&nbsp;You learn one cantrip from the Wizard, Sorcerer, Bard, Cleric, or Druid spell list. Your spellcasting ability for this cantrip is Intelligence if you choose Wizard, Wisdom if you choose Cleric or Druid, or Charisma if you choose Sorcerer or Bard.</p><p><strong>Skills.</strong>&nbsp;Choose one from: Arcana, Nature, Performance, Religion.</p><p><strong>Languages.</strong>&nbsp;Common, plus one of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "JI68FZT84XZ9QP4M"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Variant: Specialist",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"variant-profession-specialist\">Variant Profession: Specialist</h3><p>Your chosen profession led you to be highly trained and specialized in a specific area, such as the mastery of a weapon or tool, magic, or some other skill. Or perhaps you have fortified your body or mind. Whatever it is you trained at, your abilities in it are truly remarkable.</p><p><strong>Ability Score Increase.</strong>&nbsp;Increase one of your ability scores by one.</p><p><strong>Feat.</strong>&nbsp;You gain a feat of your choice.</p><p><strong>Skills.</strong>&nbsp;You are proficient in one skill of your choice.</p><p><strong>Other.</strong>&nbsp;You gain one language or proficiency with one artisan&rsquo;s tool or weapon.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "M0Y4SATXTCZ0NKTP"
+}

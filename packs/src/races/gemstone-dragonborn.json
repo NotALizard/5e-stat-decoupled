@@ -1,0 +1,21 @@
+{
+    "name": "Gemstone Dragonborn",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"gemstone-dragonborn\">Gemstone Dragonborn</h1><p><strong>Draconic Ancestry.</strong>&nbsp;You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table. This determines the damage type and area shape of your other traits.</p><h5 id=\"draconic-ancestry\">Draconic Ancestry</h5><table><thead><tr><th>Dragon</th><th>Damage Type</th></tr></thead><tbody><tr><td>Amethyst</td><td>Force</td></tr><tr><td>Emerald</td><td>Psychic</td></tr><tr><td>Ruby</td><td>Radiant</td></tr><tr><td>Sapphire</td><td>Thunder</td></tr><tr><td>Topaz</td><td>Necrotic</td></tr></tbody></table><p><strong>Draconic Resistance.</strong>&nbsp;You have resistance to the damage type associated with your Draconic Ancestry.</p><p><strong>Breath Weapon.</strong>&nbsp;When you take the Attack action, you can replace one of your attacks with an exhalation of energy in a 15-foot cone. Your Draconic Ancestry determines the damage type. Each creature in the area of effect must make a Dexterity saving throw, taking 1d10 damage on a failed save, or half as much on a successful save. The damage increases to 2d10 at 5th level, 3d10 at 11th level, and 4d10 at 17th level. After you use your breath weapon, you can&rsquo;t use it again until you complete a short or long rest.</p><p><em>Breath Weapon DC = 8 + Proficiency Bonus + Constitution Modifier</em></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "S9ZSNEXIMQX3906E"
+}

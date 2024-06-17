@@ -1,0 +1,24 @@
+{
+    "name": "Healing Hands",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;As an action, you can touch a creature and cause it to regain a number of hit points equal to 1d6 + your level. You can use this feature a number of times equal to half your proficiency bonus (rounded up), regaining all expended uses when you finish a long rest.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "K5X9B1RQPBCYI5KW"
+}

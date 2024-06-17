@@ -1,0 +1,24 @@
+{
+    "name": "Fire-infused Attacks",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You know the&nbsp;<em>Produce Flame</em>&nbsp;cantrip. When you reach 3rd level, you can cast the&nbsp;<em>Divine Favor</em>&nbsp;spell, which deals fire damage instead of radiant damage, and regain the ability to do so when you finish a long rest. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "783DLRZ4ILWO6HWJ"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Craftsperson",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"craftsperson\">Craftsperson</h3><p>You took up a livelihood centered around your skill with a specific set of tools. You take great pride in your work and can glean a great deal of insight into the finer details (as well as notice the flaws) of the work of your peers, both contemporary and historical.</p><p><strong>Ability Score Increase.</strong>&nbsp;Increase one of your ability scores by 2&nbsp;<strong>OR</strong>&nbsp;two of your ability scores by 1.</p><p><strong>Skills.</strong>&nbsp;Choose one from: History, Insight, Investigation, Persuasion, Sleight of Hand.</p><p><strong>Tools.</strong>&nbsp;You gain proficiency with any one artisan&rsquo;s tool of your choice. Your proficiency bonus is doubled for any ability check you make that uses the chosen proficiency.</p><p><strong>Knowledge of the Craft.</strong>&nbsp;You have advantage on Intelligence checks made to recall information about the craft associated with your chosen artisan&rsquo;s tool or objects associated with that craft. Additionally, you have advantage on Charisma checks made to haggle a buying or selling price for products associated with your craft. @Compendium[5e-stat-decoupled.abilities.SH5IJT2BG6WUL4JC]{Knowledge of the Craft}</p><p><strong>Structural Weakpoints.</strong>&nbsp;You deal double damage to objects. @Compendium[5e-stat-decoupled.abilities.USCQEY2G3I50NTVM]{Structural Weakpoints}</p><p><strong>Languages.</strong>&nbsp;One of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "FR3C7N4GL8GWBKGY"
+}

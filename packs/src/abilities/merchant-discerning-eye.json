@@ -1,0 +1,24 @@
+{
+    "name": "Discerning Eye",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You can always arrive at a rough estimate of the current monetary value for any non magical or common magical item. Whenever you learn the identity of an item, you gain a rough estimate of its current monetary value.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "6TTQWUU2FMKZ55OC"
+}

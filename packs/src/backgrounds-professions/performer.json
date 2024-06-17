@@ -1,0 +1,21 @@
+{
+    "name": "Performer",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"performer\">Performer</h3><p>You&rsquo;re skilled in any number of performance art, and you can put these skills to good use entertaining a crowd. You could be a musician, actor, dancer, magician, poet, or a combination of any of these and more. Either way, you know how to captivate someone&rsquo;s attention and inspire them.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Charisma, Dexterity, or Constitution increases by 1. Your Charisma, Dexterity, or Intelligence increases by 1.</p><p><strong>Inspiring.</strong>&nbsp;Whenever an ally within 60 ft of you that can hear or see you makes an ability check, you can use your reaction to add 1d4 to the result. You can choose to do this after they roll but before the DM reveals whether they succeed or fail. Once you use this feature, you can&rsquo;t use it again until you finish a short or long rest. @Compendium[5e-stat-decoupled.abilities.DV07CNBNZY09ETGA]{Inspiring}</p><p><strong>Dramatic Timing.</strong>&nbsp;Whenever you score a critical hit, you can grant advantage to the next attack of one ally within 60 ft that can see or hear you, as long as that attack is made before the end of your next turn. @Compendium[5e-stat-decoupled.abilities.7AAV15DR5023C0K6]{Dramatic Timing}</p><p><strong>Skills.</strong>&nbsp;Choose one from: Acrobatics, Deception, History, Performance, Persuasion, Sleight of Hand.</p><p><strong>Language.</strong>&nbsp;One of your choice.</p><p><strong>Other</strong>&nbsp;You gain proficiency with one of the following: a musical instrument, painter&rsquo;s supplies, disguise kit, or an extra language.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "WWSRDT4WQHI4LCVF"
+}

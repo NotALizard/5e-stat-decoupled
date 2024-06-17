@@ -1,0 +1,24 @@
+{
+    "name": "Draconic Legacy: Magic",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You know one cantrip of your choice from the sorcerer spell list. Intelligence, Charisma, or Constitution is your spellcasting ability for that cantrip (choose when you select this ancestry).</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "NADVIWJREPG2UD23"
+}

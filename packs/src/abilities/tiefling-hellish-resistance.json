@@ -1,0 +1,24 @@
+{
+    "name": "Hellish Resistance",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You have resistance to cold, fire, or poison damage damage (chosen when you select this race).</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "0AO34X8HOTP5JXNZ"
+}

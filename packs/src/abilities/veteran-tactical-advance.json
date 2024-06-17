@@ -1,0 +1,24 @@
+{
+    "name": "Tactical Advance",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;As a bonus action, you can move a distance up to your walking speed directly towards a hostile creature.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "CZJTKPPMFJR8KEY5"
+}

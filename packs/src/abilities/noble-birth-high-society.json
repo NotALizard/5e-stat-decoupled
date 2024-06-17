@@ -1,0 +1,24 @@
+{
+    "name": "High Society",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Whenever you make a Charisma check to interact with nobles or an Intelligence check to recall information related to nobility, your proficiency bonus is doubled if it applies to the check.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "P5UU6VJFSF96NCEG"
+}

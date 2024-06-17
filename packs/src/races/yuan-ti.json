@@ -1,0 +1,21 @@
+{
+    "name": "Yuan-ti",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"yuan-ti\">Yuan-ti</h1><p><strong>Darkvision.</strong>&nbsp;You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray. @Compendium[5e-stat-decoupled.abilities.OQH58IG94401CE9T]{Darkvision}</p><p><strong>Serpent Cunning.</strong>&nbsp;You have advantage on all Intelligence and Charisma saving throws against magic. @Compendium[5e-stat-decoupled.abilities.QKY6ZZ5B3DS5GXZ4]{Serpent Cunning}</p><p><strong>Serpent Speech.</strong>&nbsp;You can communicate simple ideas with snakes. They can understand the meaning of your words, though you have no special ability to understand them in return. @Compendium[5e-stat-decoupled.abilities.I6208H4TNQXQANAC]{Serpent Speech}</p><p><strong>Venomous Fangs.</strong>&nbsp;Your bite counts as a natural weapon. It uses your Strength or Dexterity and deals 1d6 + your chosen ability modifier poison damage on a hit. @Compendium[5e-stat-decoupled.abilities.FL0M9L5U6VQK0DVF]{Venomous Fangs}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "RIMVFKJCF9CP5EBA"
+}

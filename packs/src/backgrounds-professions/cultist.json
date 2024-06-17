@@ -1,0 +1,21 @@
+{
+    "name": "Cultist",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"cultist\">Cultist</h3><p>You were drawn into the worship or servitude of a mysterious power. Even if you no longer believe in the significance of this entity, you are forever marked by the sacrifice you made to it in exchange for power. Perhaps you were forced to cut ties with your past, leaving behind loved ones or forfeiting memories. Perhaps instead you surrendered part of your future, such as the fate of your first-born or a fraction of your soul.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Charisma, Constitution, or Intelligence score increases by 1. Your Charisma, Constitution, or Strength score increases by 1.</p><p><strong>Otherworldly Bargain.</strong>&nbsp;You gain the benefit of one&nbsp;<em>Eldritch Invocation</em>&nbsp;as detailed in the Warlock class. The invocation you choose must not have any prerequisites such as warlock level, pact boon, or possessing warlock spell slots. @Compendium[5e-stat-decoupled.abilities.RND6EJSLCG6I0ZWX]{Otherworldly Bargain}</p><p><strong>Skills.</strong>&nbsp;Choose one from: Arcana, Deception, Intimidation, Persuasion, Religion.</p><p><strong>Tools.</strong>&nbsp;Choose one from: Poisoner&rsquo;s kit, disguise kit, alchemist&rsquo;s supplies, calligrapher&rsquo;s supplies, jeweler&rsquo;s tools, leatherworker&rsquo;s tools.</p><p><strong>Languages.</strong>&nbsp;One exotic language.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "F907T0V4NG0WT30T"
+}

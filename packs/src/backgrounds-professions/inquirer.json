@@ -1,0 +1,21 @@
+{
+    "name": "Inquirer",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"inquirer\">Inquirer</h3><p>You are in the business of uncovering secrets. You likely worked as a detective, private investigator, or spy. You&rsquo;ve learned to spot things that are out of place, as well as how to read others and hold your own secrets close to your chest.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Intelligence, Charisma, or Wisdom score increases by 1. Your Intelligence, Charisma, or Dexterity score increases by 1.</p><p><strong>Doubt.</strong>&nbsp;Whenever you determine that a creature is lying to you or withholding the truth, either through a successful Wisdom (Insight) check or other means, you have advantage on your first Charisma (Intimidation) check directed at that creature made within the next 24 hours. @Compendium[5e-stat-decoupled.abilities.SR6MZ5RBJ3PWO86U]{Doubt}</p><p><strong>Skills.</strong>&nbsp;Choose two from: Deception, Insight, Intimidation, Investigation, Persuasion, Stealth.</p><p><strong>Tools.</strong>&nbsp;You gain proficiency with one of the following: Disguise Kit, Forgery Kit, Thieves&rsquo; Tools, a gaming set, Tinker&rsquo;s Tools.</p><p><strong>Languages.</strong>&nbsp;One of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "3K23DSURNRVK0SNJ"
+}

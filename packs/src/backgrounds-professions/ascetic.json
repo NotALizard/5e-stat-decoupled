@@ -1,0 +1,21 @@
+{
+    "name": "Ascetic",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"ascetic\">Ascetic</h3><p>You&rsquo;ve dedicated a portion of your life to meditation, and have learned how to look beyond ordinary wants to find peace and clarity. You likely entered a life of seclusion, either on your own as a hermit or alongside a handful of like-minded individuals, and had plenty of time to master a physical or creative art.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Wisdom or Intelligence score increases by 1. Your Wisdom, Strength, or Dexterity score increases by 1.</p><p><strong>Serenity.</strong>&nbsp;You can cast the spell&nbsp;<em>Sanctuary</em>&nbsp;without expending a spell slot using this feature. Whenever you do so, you can&rsquo;t use this feature again until you finish a long rest. @Compendium[5e-stat-decoupled.abilities.9A18YOFIFXKCJ5ZC]{Serenity}</p><p><strong>Skills.</strong>&nbsp;Choose one from: Acrobatics, Medicine, Nature, Perception, Religion, Survival.</p><p><strong>Tools.</strong>&nbsp;You gain proficiency with two of the following (you can select from the same category more than once): Herbalism kit, an artisan&rsquo;s tool, a musical instrument.</p><p><strong>Language.</strong>&nbsp;One of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "YE6UR9JRAMR85O55"
+}

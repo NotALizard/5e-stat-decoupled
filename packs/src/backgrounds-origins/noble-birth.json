@@ -1,0 +1,21 @@
+{
+    "name": "Noble Birth",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"noble-birth\">Noble Birth</h3><p>You were born into a family with wealth and influence. Your privilege affords you many opportunities and luxuries that few have access to, but simultaneously burdens you with responsibilities and expectations. However you regard your station, you have a reputation to uphold or, perhaps, to squander.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Intelligence or Charisma increases by 1.</p><p><strong>High Society.</strong>&nbsp;Whenever you make a Charisma check to interact with nobles or an Intelligence check to recall information related to nobility, your proficiency bonus is doubled if it applies to the check. @Compendium[5e-stat-decoupled.abilities.P5UU6VJFSF96NCEG]{High Society}</p><p><strong>Skills.</strong>&nbsp;Choose one from: Deception, History, Insight, Persuasion.</p><p><strong>Languages.</strong>&nbsp;Common, plus one of your choice.</p><p><strong>Other.</strong>&nbsp;You gain proficiency with two from the following: An extra language, a weapon, a musical instrument, a gaming set, painter&rsquo;s supplies, calligrapher&rsquo;s supplies, forgery kit.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "KABOG3WUNBGXBJYV"
+}

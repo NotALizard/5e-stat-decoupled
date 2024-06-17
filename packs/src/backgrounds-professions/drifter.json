@@ -1,0 +1,21 @@
+{
+    "name": "Drifter",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"drifter\">Drifter</h3><p>You feel at home in the wilderness. You learned how to survive off of the bounty of the wild, and you tended to stick to the outskirts of civilization. You could have settled into familiar terrain or roamed, helping towns with hazardous wildlife or showing them how to coexist with the wild.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Wisdom, Dexterity, or Strength score Increases by 1. Your Wisdom, Dexterity, or Constitution increases by 1.</p><p><strong>Camouflage.</strong>&nbsp;Can try to hide while only lightly obscured by foliage/weather. @Compendium[5e-stat-decoupled.abilities.8K8IOKAER8ZMQT04]{Camouflage}</p><p><strong>Skills.</strong>&nbsp;Choose two from: Acrobatics, Animal Handling, Medicine, Nature, Perception, Stealth, Survival.</p><p><strong>Other.</strong>&nbsp;You gain proficiency with one of the following: a musical instrument, a weapon, a language</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "YMFILKVHWYIU0AK9"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Tribe Member",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"tribe-member\">Tribe Member</h3><p>Your tribe is an extended family that shares a cultural livelihood. Each tribe has its own history, customs, and beliefs. You might follow the ways of your tribe religiously, or you might turn your back on their teachings. A person&rsquo;s ties to their tribe can be as unbreakable as they are unique.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Wisdom, Constitution, Strength, or Dexterity increases by 1.</p><p><strong>Provident Artisan.</strong>&nbsp;As part of a short rest, you can harvest bone, hide, or other materials from a slain beast, construct, dragon, monstrosity, or plant creature of size Small or larger to create one of the following items: any simple melee weapon, a blowgun, 10 blowgun needles, 10 darts, a shield, leather armor, hide armor. To use this trait, you need a blade, such as a dagger, or appropriate artisan's tools, such as leatherworker's tools. @Compendium[5e-stat-decoupled.abilities.0HTHLWOT1SYUFQMX]{Provident Artisan}</p><p><strong>Skills.</strong>&nbsp;Choose one from Athletics, Medicine, Nature, Perception, Survival.</p><p><strong>Tools.</strong>&nbsp;You gain proficiency with two of the following: Leatherworker&rsquo;s tools, Woodcarver&rsquo;s tools, Potter&rsquo;s tools, Weaver&rsquo;s tools, Herbalism kit.</p><p><strong>Languages.</strong>&nbsp;Common, plus one of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "KTC33NCOJKYX35BA"
+}

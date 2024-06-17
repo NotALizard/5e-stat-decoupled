@@ -1,0 +1,21 @@
+{
+    "name": "Atlantean",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"atlantean-\">Atlantean*</h1><p><strong>Amphibious.</strong>&nbsp;You have a swim speed of 30 feet and can breathe air or water. @Compendium[5e-stat-decoupled.abilities.E8BUATV8RLFHCUGV]{Amphibious}</p><p><strong>Emissary of the Sea.</strong>&nbsp;Aquatic beasts have an extraordinary affinity with your people. You can communicate simple ideas with beasts that can breathe water. They can understand the meaning of your words, though you have no special ability to understand them in return. @Compendium[5e-stat-decoupled.abilities.43BC8V585DLVH0K6]{Emissary of the Sea}</p><p><strong>Subrace.</strong>&nbsp;You get a subrace.</p><h3 id=\"pelagic-triton-\">Pelagic (Triton)</h3><p><strong>Control Air and Water.</strong>&nbsp;You can cast <i>Fog Cloud</i> with this trait. Starting at 3rd level, you can cast <i>Gust of Wind</i> with it, and starting at 5th level, you can also cast <i>Wall of Water</i> with it. Once you cast a spell with this trait, you can&rsquo;t cast that spell with it again until you finish a long rest. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells. @Compendium[5e-stat-decoupled.abilities.DUANOD1OVPWK9FWW]{Control Air and Water}</p><h3 id=\"oceanic-sahuagin-\">Oceanic (Sahuagin)</h3><p><strong>Dangerous Jaws.</strong>&nbsp;Your bite counts as a natural weapon. It uses your Strength or Constitution and deals 1d6 + your modifier piercing damage on a hit. @Compendium[5e-stat-decoupled.abilities.2Q3QCKWVC18BWS7E]{Dangerous Jaws}</p><p><strong>Darkvision.</strong>&nbsp;You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray. @Compendium[5e-stat-decoupled.abilities.YUYZTXWMMVX5RV9E]{Darkvision}</p><h3 id=\"benthic-crustacean-\">Benthic (Crustacean)</h3><p><strong>Damage Resistance.</strong>&nbsp;You have resistance to cold damage. @Compendium[5e-stat-decoupled.abilities.8IYCCL7RJMZT2EPF]{Damage Resistance}</p><p><strong>Natural Armor.</strong>&nbsp;Your tough shell offers you some protection. While you aren't wearing armor, your AC is 12+Con. @Compendium[5e-stat-decoupled.abilities.7YFJL58WKVIIZ880]{Natural Armor}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "SKEZJ5HBM6P3DCE9"
+}

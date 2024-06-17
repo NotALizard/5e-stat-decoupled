@@ -1,0 +1,21 @@
+{
+    "name": "Gnome",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1>Gnome</h1><p><strong>Speed.</strong>&nbsp;Your base walking speed is 25 feet.</p><p><strong>Size.</strong>&nbsp;Your size is Small</p><p><strong>Darkvision.</strong>&nbsp;You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray. @Compendium[5e-stat-decoupled.abilities.4TXLGZ9RM2QXSUQ9]{Darkvision}</p><p><strong>Gnome Cunning.</strong>&nbsp;You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic. @Compendium[5e-stat-decoupled.abilities.6MTREX6AK5885AAI]{Gnome Cunning}</p><p><strong>Restless Hands.</strong>&nbsp;You are proficient with one artisan's tool or musical instrument of your choice. @Compendium[5e-stat-decoupled.abilities.EL23KXSY8D4G30FQ]{Restless Hands}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "JOVR1C75YZBQI6KS"
+}

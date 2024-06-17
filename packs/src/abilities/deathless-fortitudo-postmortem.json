@@ -1,0 +1,24 @@
+{
+    "name": "Fortitudo Postmortem",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Your blood vessels have long since dessicated, making toxins less effective. You have advantage on saving throws to avoid being poisoned and are immune to diseases.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "HGQURW9WAU3BEIX8"
+}

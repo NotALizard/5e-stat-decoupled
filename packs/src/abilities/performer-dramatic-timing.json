@@ -1,0 +1,24 @@
+{
+    "name": "Dramatic Timing",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Whenever you score a critical hit, you can grant advantage to the next attack of one ally within 60 ft that can see or hear you, as long as that attack is made before the end of your next turn.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "7AAV15DR5023C0K6"
+}

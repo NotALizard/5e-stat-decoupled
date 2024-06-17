@@ -1,0 +1,21 @@
+{
+    "name": "Squire",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"squire\">Squire</h3><p>Your youth was spent working towards martial prowess. Having pledged yourself to the service of a knight or paladin, or at the very least having secured the apprenticeship of a weapon master, you underwent a grueling training regimen in order to learn the art of combat. Only you know what force deep in your heart enabled you to withstand this ordeal, be it the desire for honor, justice, or just to save your own skin.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Strength, Charisma, Dexterity, or Constitution increases by 1.</p><p><strong>Knight School.</strong>&nbsp;You gain proficiency with (A) two martial weapons of your choice OR (B) Animal Handling.</p><p><strong>Skills.</strong>&nbsp;Choose one from: Athletics, History, Perception, Persuasion.</p><p><strong>Tools.</strong>&nbsp;You gain proficiency with one of the following: Vehicles (land), Smith&rsquo;s tools, Leatherworker&rsquo;s tools</p><p><strong>Languages.</strong>&nbsp;Common, plus one of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "HU8DPU70GBM61SJP"
+}

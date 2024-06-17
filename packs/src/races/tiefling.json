@@ -1,0 +1,21 @@
+{
+    "name": "Tiefling",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1>Tiefling</h1><p><strong>Hellish Resistance.</strong>&nbsp;You have resistance to cold, fire, or poison damage damage (chosen when you select this race). @Compendium[5e-stat-decoupled.abilities.0AO34X8HOTP5JXNZ]{Hellish Resistance}</p><p><strong>Infernal Legacy.</strong>&nbsp;You know the&nbsp;<em>Thaumaturgy</em>&nbsp;cantrip. When you reach 3rd level, you can cast the&nbsp;<em>Hellish rebuke</em>&nbsp;spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the&nbsp;<em>Darkness</em>&nbsp;spell once with this trait and regain the ability to do so when you finish a long rest. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells. @Compendium[5e-stat-decoupled.abilities.7MVOUHOSGEXIR337]{Infernal Legacy}</p><div class=\"descriptive\"><h3 id=\"variant-hellsight\">Variant: Hellsight</h3><p>Cuts needed to be made for balance so Darkvision was removed. You can optionally add&nbsp;<em>Darkvision</em>&nbsp;out to 60ft back along with the&nbsp;<em>Daylight Sensitive</em>&nbsp;trait to balance it out.</p><p><strong>Daylight Sensitive.</strong>&nbsp;You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight. @Compendium[5e-stat-decoupled.abilities.S6UCWDXD208R5LDM]{Daylight Sensitive}</p><h3 id=\"tiefling-subraces\">Tiefling Subraces</h3><p>The list of spells provided by Infernal Legacy can be replaced with the list of spells granted to any tiefling subrace in published expansions</p></div>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "VMU8DLBCTQNCSZV4"
+}

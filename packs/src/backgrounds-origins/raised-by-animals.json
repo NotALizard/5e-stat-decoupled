@@ -1,0 +1,21 @@
+{
+    "name": "Raised by Animals",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"raised-by-animals\">Raised by Animals</h3><p>Separated from your birth family from a young age, you were raised by the wilderness itself. Perhaps a protective bear treated you as its cub, a pack of wolves took you in as their own, or a unicorn sheltered you in its domain. Either way, you learned how to communicate with the creatures that adopted you well before you learned to speak with others of your kind.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Wisdom, Constitution, Strength, or Dexterity increases by 1.</p><p><strong>Speech of Beasts.</strong>&nbsp;You have the ability to communicate in a limited manner with beasts. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Wisdom and Charisma checks you make to influence beasts. @Compendium[5e-stat-decoupled.abilities.XJ5TOFAESTA6S16W]{Speech of Beasts}</p><p><strong>Skills.</strong>&nbsp;Choose two from: Animal Handling, Athletics, Intimidation, Nature, Stealth, Survival.</p><p><strong>Languages.</strong>&nbsp;Common or Sylvan (MUST gain Common, either now or when offered a language by your Profession)</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "YAK0W1STKIE63MZW"
+}

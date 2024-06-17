@@ -1,0 +1,24 @@
+{
+    "name": "Feline Sprint",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Your feline ancestry allows you to summon great bursts of speed. When you begin moving on a turn, you can choose to double your speed until the end of your turn. You regain the ability to use this trait when you end one of your turns in which you moved 0 feet.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "IZJ9D162YHGYJ8G8"
+}

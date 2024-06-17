@@ -1,0 +1,21 @@
+{
+    "name": "Genasi",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"genasi-\">Genasi*</h1><p><strong>Subrace.</strong>&nbsp;You get a subrace</p><h3 id=\"air\">Air</h3><p><strong>Endless Breath.</strong>&nbsp;You can hold your breath indefinitely, as long as you are not incapacitated. @Compendium[5e-stat-decoupled.abilities.UGZ1XOECP6HDKN8P]{Endless Breath}</p><p><strong>Lightning Resistance.</strong>&nbsp;You have resistance to lightning damage. @Compendium[5e-stat-decoupled.abilities.JBNO2LFIJ64LON3T]{Lightning Resistance}</p><p><strong>Command Air.</strong>&nbsp;You know the&nbsp;<em>Gust</em>&nbsp;cantrip (from EE/XGtE), and Constitution is your spellcasting ablitity for it. @Compendium[5e-stat-decoupled.abilities.W754QR3TE25QA1UF]{Command Air}</p><h3 id=\"earth\">Earth</h3><p><strong>Grounded.</strong>&nbsp;You have advantage on ability checks and saving throws made to avoid being moved or knocked prone. @Compendium[5e-stat-decoupled.abilities.6OFJCH3XSVHUDQCG]{Grounded}</p><p><strong>Poison Resistance.</strong>&nbsp;You have resistance to poison damage. @Compendium[5e-stat-decoupled.abilities.TPWRFTX6QXA28R5T]{Poison Resistance}</p><p><strong>Command Earth.</strong>&nbsp;You know the&nbsp;<em>Mold Earth</em>&nbsp;cantrip (from EE/XGtE), and Constitution is your spellcasting ablitity for it. @Compendium[5e-stat-decoupled.abilities.68S0UOXSON9L74XG]{Command Earth}</p><h3 id=\"fire\">Fire</h3><p><strong>Darkvision.</strong>&nbsp;You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of red. @Compendium[5e-stat-decoupled.abilities.3LLHJ567V9SY0J80]{Darkvision}</p><p><strong>Fire Resistance.</strong>&nbsp;You have resistance to fire damage. @Compendium[5e-stat-decoupled.abilities.99EPO5OIQU5KPE15]{Fire Resistance}</p><p><strong>Command Fire.</strong>&nbsp;You know the&nbsp;<em>Control Flames</em>&nbsp;cantrip (from EE/XGtE), and Constitution is your spellcasting ablitity for it. @Compendium[5e-stat-decoupled.abilities.K2LX38SLZDLST065]{Command Fire}</p><h3 id=\"water\">Water</h3><p><strong>Amphibious.</strong>&nbsp;You have a swim speed of 30 feet and can breathe air or water. @Compendium[5e-stat-decoupled.abilities.X33QWE5J4QMDO3AW]{Amphibious}</p><p><strong>Acid Resistance.</strong>&nbsp;You have resistance to acid damage. @Compendium[5e-stat-decoupled.abilities.GV2I696POGW3U914]{Acid Resistance}</p><p><strong>Command Water.</strong>&nbsp;You know the&nbsp;<em>Shape Water</em>&nbsp;cantrip (from EE), and Constitution is your spellcasting ablitity for it. @Compendium[5e-stat-decoupled.abilities.BDUAY4DXG2I5TOXO]{Command Water}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "9OF346CQSW3P3SF9"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Scholar",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"scholar\">Scholar</h3><p>You are well studied in the ways and histories of the world. You&rsquo;ve immersed yourself in volumes on many subjects, ranging from languages to maths, sciences, arts, professions, and other skills. You have a wide breadth of knowledge from which to draw, though finding an application for all of it might be difficult.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Intelligence, Wisdom, or Charisma increases by 1. Your Intelligence, Wisdom, or Constitution increases by 1.</p><p><strong>Skills.</strong>&nbsp;Choose one from: Arcana, History, Investigation, Medicine, Nature, Performance, Religion.</p><p><strong>Independent Study.</strong>&nbsp;You gain proficiency with any one skill of your choice. @Compendium[5e-stat-decoupled.abilities.WFRS3HWOYGLU0V6Q]{Independent Study}</p><p><strong>Tools.</strong>&nbsp;You gain proficiency with two of the following: Alchemist&rsquo;s supplies, Calligrapher&rsquo;s supplies, Painter&rsquo;s supplies, Cartographer&rsquo;s tools, Forgery kit, Poisoner&rsquo;s kit, Tinker&rsquo;s tools, Navigator&rsquo;s tools, or a musical instrument.</p><p><strong>Languages.</strong>&nbsp;Two of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "DYEFPVNA0VSQXBLJ"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Feywild Influence",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Whenever you take a long rest, you can choose a season to reflect your emotional state and corresponding spell to prepare. You can cast the chosen spell once without expending a spell slot and regain the ability to do so when you finish a long rest. When you reach 5th level, the chosen spell is cast as a 2nd-level spell. Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells (chosen when you select this subrace).<div><table><thead><tr><th>Season</th><th>Spell</th></tr></thead><tbody><tr><td>Spring</td><td>Charm Person</td></tr><tr><td>Summer</td><td>Command</td></tr><tr><td>Autumn</td><td>Heroism</td></tr><tr><td>Winter</td><td>Sleep</td></tr></tbody></table></div></p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "6O1E7USTROA0QPWM"
+}

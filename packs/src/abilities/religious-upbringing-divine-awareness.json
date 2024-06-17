@@ -1,0 +1,24 @@
+{
+    "name": "Divine Awareness",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You can cast the spell&nbsp;<em>Detect Evil and Good</em>&nbsp;without expending a spell slot. Once you do so, you must finish a long rest before you can cast it in this way again.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "VEQJJR79XIOTMYWO"
+}

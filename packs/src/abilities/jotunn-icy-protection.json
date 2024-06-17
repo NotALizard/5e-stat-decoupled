@@ -1,0 +1,24 @@
+{
+    "name": "Icy Protection",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You can cast&nbsp;<em>Armor of Agathys</em>&nbsp;on yourself at a level equal to your proficiency modifier and Constitution is your spellcasting ability for this spell. After you use this trait, you can't use it again until you finish a long rest.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "776J8THO6ER6QUD2"
+}

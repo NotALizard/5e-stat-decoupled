@@ -1,0 +1,21 @@
+{
+    "name": "Halfling",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"halfling\">Halfling</h1><p><strong>Speed.</strong>&nbsp;Your base walking speed is 25 feet.</p><p><strong>Size.</strong>&nbsp;Your size is Small.</p><p><strong>Lucky.</strong>&nbsp;When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll. @Compendium[5e-stat-decoupled.abilities.FBDAM8XYM5SIPTYD]{Lucky}</p><p><strong>Halfling Nimbleness.</strong>&nbsp;You can move through the space of any creature that is of a size larger than yours. @Compendium[5e-stat-decoupled.abilities.D3SAIQ4TMZYXKUBP]{Halfling Nimbleness}</p><p><strong>Subrace.</strong>&nbsp;You get a subrace.</p><h3 id=\"lightfoot\">Lightfoot</h3><p><strong>Naturally Stealthy.</strong>&nbsp;You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you. @Compendium[5e-stat-decoupled.abilities.VPOIDKJSYHYN1T4O]{Naturally Stealthy}</p><h3 id=\"stout-\">Stout*</h3><p><strong>Sturdy Resilience.</strong>&nbsp;You have advantage on Saving Throws against poison, and you have Resistance against poison damage. @Compendium[5e-stat-decoupled.abilities.N7JIOQTDEJNASYTR]{Sturdy Resilience}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "04Q9SIUG9TKDLKUK"
+}

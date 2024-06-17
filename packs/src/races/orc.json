@@ -1,0 +1,21 @@
+{
+    "name": "Orc",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"orc\">Orc</h1><p><strong>Darkvision.</strong>&nbsp;Thanks to your orc blood, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray. @Compendium[5e-stat-decoupled.abilities.5VYATLJM2M4ZQW2S]{Darkvision}</p><p><strong>Powerful Build.</strong>&nbsp;You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift. @Compendium[5e-stat-decoupled.abilities.O80M4TG56DS4Q9ZZ]{Powerful Build}</p><p><strong>Relentless Endurance.</strong>&nbsp;When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can&rsquo;t use this feature again until you finish a long rest. @Compendium[5e-stat-decoupled.abilities.VSMPZZFQRCXISXRY]{Relentless Endurance}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "4L88L8DUBBBXX4JJ"
+}

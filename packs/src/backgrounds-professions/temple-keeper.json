@@ -1,0 +1,21 @@
+{
+    "name": "Temple Keeper",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"temple-keeper\">Temple Keeper</h3><p>You served for a time in the temple of your god. You have delved into the mysteries of your faith, offering spiritual guidance to others. You&rsquo;ve also learned how to carry out a number of basic religious rites and how to invoke your god&rsquo;s divine protection in times of dire need.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Wisdom, Charisma, or Intelligence score increases by 1. Your Wisdom, Charisma, or Constitution score increases by 1.</p><p><strong>Prayer of Protection.</strong>&nbsp;You can cast the spell&nbsp;<em>Protection from Evil and Good</em>&nbsp;without expending a spell slot using this feature. Whenever you do so, you can&rsquo;t use this feature again until you finish a long rest. @Compendium[5e-stat-decoupled.abilities.YEVCJVPUXY9662ZG]{Prayer of Protection}</p><p><strong>Skills.</strong>&nbsp;Choose one from: History, Insight, Medicine, Performance, Persuasion, Religion.</p><p><strong>Tools.</strong>&nbsp;You gain proficiency with an artisan&rsquo;s tool or a musical instrument.</p><p><strong>Languages.</strong>&nbsp;Two of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "RT9LD4KRY4B7KERA"
+}

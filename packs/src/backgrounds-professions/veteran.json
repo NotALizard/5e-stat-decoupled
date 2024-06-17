@@ -1,0 +1,21 @@
+{
+    "name": "Veteran",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"veteran\">Veteran</h3><p>You served in combat as part of an organized hierarchy. Whether you were a soldier, guard, or even a knight, you&rsquo;ve grown accustomed to following orders and trusting in your comrades and superiors. Having allies to back you up can give you the courage to charge against any enemy.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Strength increases by 1. Your Strength, Dexterity, or Constitution increases by 1.</p><p><strong>Armor Familiarity.</strong>&nbsp;You are proficient with light and medium armor. @Compendium[5e-stat-decoupled.abilities.R659PMBQVFKF0AC6]{Armor Familiarity}</p><p><strong>Tactical Advance.</strong>&nbsp;As a bonus action, you can move a distance up to your walking speed directly towards a hostile creature. @Compendium[5e-stat-decoupled.abilities.CZJTKPPMFJR8KEY5]{Tactical Advance}</p><p><strong>Skills.</strong>&nbsp;Choose one from: Athletics, Insight, Intimidation, Medicine, Perception.</p><p><strong>Other.</strong>&nbsp;You gain proficiency with a weapon, gaming set, smith&rsquo;s tools, leatherworker&rsquo;s tools, or a language of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "VDIKTOKQJW8HUFV4"
+}

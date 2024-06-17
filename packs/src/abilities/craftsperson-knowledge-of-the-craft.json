@@ -1,0 +1,24 @@
+{
+    "name": "Knowledge of the Craft",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You have advantage on Intelligence checks made to recall information about the craft associated with your chosen artisan&rsquo;s tool or objects associated with that craft. Additionally, you have advantage on Charisma checks made to haggle a buying or selling price for products associated with your craft.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "SH5IJT2BG6WUL4JC"
+}

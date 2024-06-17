@@ -1,0 +1,24 @@
+{
+    "name": "Knowledge of Artifice",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;Your proficiency bonus is doubled for History checks related to magic items, alchemical objects, or technological devices.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "ERJNIWB9OGMLZ897"
+}

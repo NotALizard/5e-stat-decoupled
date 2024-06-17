@@ -1,0 +1,24 @@
+{
+    "name": "Limited Stamina",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You can only manage to fly in short bursts and will fall if you end your turn in the air and nothing else is holding you aloft. Starting at 5th level you no longer suffer this restriction.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "YW0YYLB9DO9ZN9KK"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Inorganic",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You don't experience the same needs as other beings. You do not need to eat, drink, or breathe, and are immune to disease.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "6DATIW24FE1HJRQW"
+}

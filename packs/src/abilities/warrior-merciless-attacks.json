@@ -1,0 +1,24 @@
+{
+    "name": "Merciless Attacks",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;When you score a critical hit with a weapon attack, you can roll one of the weapon&rsquo;s damage dice one additional time and add it to the extra damage of the critical hit.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "background"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "VWPUNI5VXUZC19KU"
+}

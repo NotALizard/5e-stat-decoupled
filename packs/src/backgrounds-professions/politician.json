@@ -1,0 +1,21 @@
+{
+    "name": "Politician",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"politician\">Politician</h3><p>Whether you come from family tradition of public office or you&rsquo;ve risen up on the support of your peers, you&rsquo;ve found that you have a knack for swaying minds with your words, ideas, looks, or a combination of the three.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Charisma, Intelligence, or Strength ability score increases by 1. Your Charisma, Intelligence, or Wisdom increases by 1.</p><p><strong>Saving Face.</strong>&nbsp;Whenever you fail an attack roll, ability check, or saving throw you can choose to gain a bonus to the roll equal to the number of allied creatures (Max 5) who can see you within 30 feet, possibly causing the roll to succeed. Once you use this feature, you can't use it again until you finish a short or long rest. @Compendium[5e-stat-decoupled.abilities.LAPCBRDOZ527HTNP]{Saving Face}</p><p><strong>Skills.</strong>&nbsp;One from Deception, Insight, Intimidation, Persuasion.</p><p><strong>Other.</strong>&nbsp;One of the following: Calligrapher&rsquo;s supplies, forgery kit, disguise kit, a gaming set, an extra language.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "QUMNASMMUFDK6B4X"
+}

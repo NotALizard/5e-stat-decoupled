@@ -1,0 +1,24 @@
+{
+    "name": "Naturally Stealthy",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "VPOIDKJSYHYN1T4O"
+}

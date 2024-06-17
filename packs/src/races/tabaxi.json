@@ -1,0 +1,21 @@
+{
+    "name": "Tabaxi",
+    "type": "race",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h1 id=\"tabaxi-\">Tabaxi*</h1><p><strong>Darkvision.</strong>&nbsp;You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can&rsquo;t discern color in darkness, only shades of gray. @Compendium[5e-stat-decoupled.abilities.2DIP2E87OII173BW]{Darkvision}</p><p><strong>Climbing Claws.</strong>&nbsp;Your claws give you excellent grip, granting you a climbing speed of 20 feet. Additionally, they count as natural weapons. Your claws use your Strength or Dexterity and deal 1d4 + your chosen ability modifier slashing damage on a hit. @Compendium[5e-stat-decoupled.abilities.IZVLGHYOXJOC6RQR]{Climbing Claws}</p><p><strong>Feline Sprint.</strong>&nbsp;Your feline ancestry allows you to summon great bursts of speed. When you begin moving on a turn, you can choose to double your speed until the end of your turn. You regain the ability to use this trait when you end one of your turns in which you moved 0 feet. @Compendium[5e-stat-decoupled.abilities.IZJ9D162YHGYJ8G8]{Feline Sprint}</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "JTYWUWR3K1XSUUIG"
+}

@@ -1,0 +1,21 @@
+{
+    "name": "Variant: Draconic Scion",
+    "type": "background",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<h3 id=\"profession-draconic-scion\">Variant Profession: Draconic Scion</h3><p>You have sworn your services to that of a Dragon. Whether you would take up arms against their foes, or simply take stock of their hoard, you have been rewarded for your devotion.</p><p><strong>Ability Score Increase.</strong>&nbsp;Your Intelligence, Wisdom, or Charisma increases by 1. Your Intelligence, Wisdom, or Constitution increases by 1.</p><p><strong>Draconic Patron</strong>&nbsp;Choose one type of dragon from the Draconic Patron table. This determines the type of boon you receive from your patron. Once you use your boon, you can't do so again until you finish a long rest.</p><pre>&nbsp;</pre><h4 id=\"draconic-patron\">Draconic Patron</h4><table><thead><tr><th>Dragon</th><th>Damage Type</th><th>Dragon Type</th></tr></thead><tbody><tr><td>Black</td><td>Acid</td><td>Chromatic</td></tr><tr><td>Blue</td><td>Lightning</td><td>Chromatic</td></tr><tr><td>Green</td><td>Poison</td><td>Chromatic</td></tr><tr><td>Red</td><td>Fire</td><td>Chromatic</td></tr><tr><td>White</td><td>Cold</td><td>Chromatic</td></tr><tr><td>Brass</td><td>Fire</td><td>Metallic</td></tr><tr><td>Bronze</td><td>Lightning</td><td>Metallic</td></tr><tr><td>Copper</td><td>Acid</td><td>Metallic</td></tr><tr><td>Gold</td><td>Fire</td><td>Metallic</td></tr><tr><td>Silver</td><td>Cold</td><td>Metallic</td></tr><tr><td>Amethyst</td><td>Force</td><td>Gemstone</td></tr><tr><td>Emerald</td><td>Psychic</td><td>Gemstone</td></tr><tr><td>Ruby</td><td>Radiant</td><td>Gemstone</td></tr><tr><td>Sapphire</td><td>Thunder</td><td>Gemstone</td></tr><tr><td>Topaz</td><td>Necrotic</td><td>Gemstone</td></tr></tbody></table><p><strong>Boon of Chromatic Warding.</strong>&nbsp;As an action, you can channel inert draconic energies to protect yourself. For 10 minutes, you become immune to the damage type associated with your Chromatic Patron.</p><p><strong>Boon of Metallic Cry.</strong>&nbsp;When you take the Attack action, you can replace one of your attacks with an exhalation of magical gas in a 15-foot cone. The save DC for this breath is [<em>8 + your Constitution modifier + your proficiency bonus</em>]. When you use this ability, choose one:</p><ul><li><p>Each creature in the area must succeed on a Strength saving throw or be pushed away from you and be knocked prone.</p></li><li><p>Each creature in the area must succeed on a Constitution saving throw or become incapacitated until the start of your next turn.</p></li></ul><p><strong>Boon of Gemstone Flight.</strong>&nbsp;You can use your bonus action to temporarily summon an array of spectral gems that match the wings of your Gemstone Patron. For 1 minute, you gain a flying speed equal to your walking speed and can hover.</p><p><strong>Languages.</strong>&nbsp;Draconic, plus one of your choice.</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Stat-Decoupled"
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "2S684UCPDPMI6SZM"
+}

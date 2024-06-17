@@ -1,0 +1,24 @@
+{
+    "name": "Blessing of the Raven Queen",
+    "type": "feat",
+    "img": "",
+    "system": {
+        "description": {
+            "value": "<p>&nbsp;You have resistance to cold or necrotic damage (chosen when you select this subrace).</p>",
+            "chat": "",
+            "unidentified": ""
+        },
+        "source": "Core Rules",
+        "type": {
+            "value": "race"
+        }
+    },
+    "effects": [],
+    "folder": null,
+    "sort": 0,
+    "ownership": {
+        "default": 0
+    },
+    "flags": {},
+    "_id": "UM6UXJLMP5JJ9YHK"
+}
